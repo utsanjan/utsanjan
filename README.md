@@ -29,19 +29,10 @@ and other Technology based videos... <br>
 🔸 Python <br>
 🔸 C and C++ <br>
 🔸 Adobe XD & Illustrator <br>
-🔸 HTML5 <br>
-🔸 CSS <br>
-🔸 SQL <br>
+🔸 HTML5 and CSS <br>
 🔸 Javascript <br>
+🔸 Structured Query Language <br>
 🔸 Machine Learning <br><br>
-
-
-## 🌟 Interested in
-
-🔸 Cybersecurity <br>
-🔸 Application Development <br>
-🔸 UI/UX Designing <br>
-🔸 Digital marketing <br><br>
 
 
 ## 🌎 Social Handles
