@@ -52,17 +52,15 @@ I share my knowledge by creating Cybersecurity & other Technology based videos.
 
 ## 📱 Technologies Learnt
 
-🔸 Adobe XD <br>
-🔸 Adobe Illustrator <br>
-🔸 Photoshop CC <br>
-🔸 SparkAR Studio <br>
 🔸 Java <br>
 🔸 Python <br>
 🔸 C and C++ <br>
+🔸 Adobe XD & Illustrator <br>
 🔸 HTML5 <br>
 🔸 CSS <br>
 🔸 SQL <br>
 🔸 Javascript <br>
+🔸 Machine Learning <br>
 
 ## 🌟 Interested in
 
