@@ -3,7 +3,7 @@
 <h3 align="center">Hello World, I'm <a href="https://www.dopesatan.ml/">Utsanjan</a> - aka DopeSatan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 
-## 🧑🏻‍💻 About me
+## 🧑🏻‍💻 ABOUT ME
 
 * 💻 I love Cybersecurity & Technology 
 * 🎨 I am a self-taught UI/UX designer
@@ -23,7 +23,7 @@ and other Technology based videos... <br>
 ⇨ Visit my Blog Page: https://www.dopesatan.ml 
 
 
-## 🧠 Technologies Learnt
+## 🧠 TECHNOLOGIES LEARNT
 
 🔸 Java <br>
 🔸 Python <br>
@@ -35,7 +35,7 @@ and other Technology based videos... <br>
 🔸 Machine Learning <br>
 
 
-## 🌎 Social Handles
+## 🌎 SOCIAL HANDLES
 
 <a href="https://linkedin.com/in/utsanjan">
 
