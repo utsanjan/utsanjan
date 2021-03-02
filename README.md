@@ -1,20 +1,17 @@
+<a href="#"><img width="100%" height="auto" src="https://camo.githubusercontent.com/1fceebed807adf3625de6c1f6d9ac5ebea7a8a23f8a9d544a0d774443cc8f6b2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a70566e433635446d596579524c344c48532f67697068792e676966" height="175px"/></a>
 
+<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> Hello World, I'm <a href="https://www.dopesatan.ml/">Utsanjan</a> - aka DopeSatan</h3>
 
-<!--
-**utsanjan/utsanjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑🏻‍💻 About me
 
-Here are some ideas to get you started:
+* 💻 I love Cybersecurity & Technology 
+* 🎨 I'm a self-taught UI/UX designer
+* 📱 I make Android applications
+* 🎓 I'm a Computer Science & Engineering student (graduating in 2022)
+* 🌐 You can find my articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/)
+* 📺 I make Cybersecurity & Tech Videos on [YouTube](https://www.youtube.com/c/DopeSatan)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hello World,
+## 
 
 <a href="https://youtube.com/DopeSatan">
 
@@ -51,27 +48,23 @@ Here are some ideas to get you started:
 <br />
 
 Currently persuing for my BTech degree on Computer Science & Engineering.  
-
 I share my knowledge by creating Cybersecurity & other Technology based videos.  
 
-Check out my Youtube channel: [DopeSatan](https://www.youtube.com/DopeSatan)
+Check out my Youtube channel:<br>
+<p align="left">
+  <a href="https://www.youtube.com/dopesatan?sub_confirmation=true"><img alt="YouTube Subscribe" title="YouTube" src="https://1.bp.blogspot.com/-oDPQc9N0QYc/YD6Jn5zn7jI/AAAAAAAAbYw/809suuJdqDY5gI9pjF7ViWOI_DrwGbaEQCLcBGAsYHQ/w200-h100/subscribe-5408999_1280.webp"/></a>
+<br><a href="https://fillboards.com/options"><img alt="Resources" title="Resources" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
+</p>
 
-
-
-Technologies Learnt:
+## Technologies Learnt
 
 - Adobe XD, Adobe Illustrator, Photoshop CC, SparkAR Studio
-
 - Java, Python, C++, HTML5, Javascript, CSS, SQL
 
-Interested in:
+## Interested in
 
 🔸 Cybersecurity
 🔸 Android application Development
 🔸 UI/UX Designing
-☮️ Peace out,  
 
-Utsanjan Maity
-
-[dopesatan.ml](https://www.dopesatan.ml/)
-
+☮ Visit my Blog Page: [DopeSatan](https://www.dopesatan.ml/)
