@@ -13,12 +13,12 @@
 
 <br>
 I share my knowledge by creating Cybersecurity & other Technology based videos. <br>
-𝗗𝗼 𝗰𝗵𝗲𝗰𝗸 𝗼𝘂𝘁 𝗺𝘆 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗰𝗵𝗮𝗻𝗻𝗲𝗹:<br>
+↪ 𝗗𝗼 𝗰𝗵𝗲𝗰𝗸 𝗼𝘂𝘁 𝗺𝘆 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗰𝗵𝗮𝗻𝗻𝗲𝗹:<br>
 <p align="left">
   <a href="https://www.youtube.com/dopesatan?sub_confirmation=true"><img alt="YouTube Subscribe" title="YouTube" src="https://1.bp.blogspot.com/-oDPQc9N0QYc/YD6Jn5zn7jI/AAAAAAAAbYw/809suuJdqDY5gI9pjF7ViWOI_DrwGbaEQCLcBGAsYHQ/w200-h100/subscribe-5408999_1280.webp"/></a>
 <br><a href="https://fillboards.com/options"><img alt="Resources" title="Resources" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
 </p>
-👉🏻 Visit my Blog Page: https://www.dopesatan.ml
+➡ Visit my Blog Page: https://www.dopesatan.ml
 
 ## 🧠 Technologies Learnt
 
