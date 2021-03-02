@@ -22,7 +22,7 @@ I share my knowledge by creating Cybersecurity & other Technology based videos.
 </p>
 ☮ Visit my Blog Page: https://www.dopesatan.ml
 
-## 📱 Technologies Learnt
+## 🧠 Technologies Learnt
 
 🔸 Java <br>
 🔸 Python <br>
@@ -42,12 +42,6 @@ I share my knowledge by creating Cybersecurity & other Technology based videos.
 🔸 Digital marketing <br>
 
 ## 🌎 Social Handles
-
-<a href="https://youtube.com/DopeSatan">
-
-  <img align="left" alt="DopeSatan - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
-
-</a>
 
 <a href="https://linkedin.com/in/utsanjan">
 
@@ -70,6 +64,12 @@ I share my knowledge by creating Cybersecurity & other Technology based videos.
 <a href="https://facebook.com/utsanjan">
 
   <img align="left" alt="Utsanjan - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
+
+</a>
+
+<a href="https://youtube.com/DopeSatan">
+
+  <img align="left" alt="DopeSatan - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
 
 </a>
 
