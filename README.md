@@ -11,6 +11,7 @@
 * 🌐 I like writing Tech Articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/)
 * 📺 I make Cybersecurity & Tech Videos on [YouTube](https://www.youtube.com/c/DopeSatan)
 
+
 Currently persuing for my BTech degree on Computer Science & Engineering.  
 I share my knowledge by creating Cybersecurity & other Technology based videos.  
 
@@ -19,7 +20,7 @@ I share my knowledge by creating Cybersecurity & other Technology based videos.
   <a href="https://www.youtube.com/dopesatan?sub_confirmation=true"><img alt="YouTube Subscribe" title="YouTube" src="https://1.bp.blogspot.com/-oDPQc9N0QYc/YD6Jn5zn7jI/AAAAAAAAbYw/809suuJdqDY5gI9pjF7ViWOI_DrwGbaEQCLcBGAsYHQ/w200-h100/subscribe-5408999_1280.webp"/></a>
 <br><a href="https://fillboards.com/options"><img alt="Resources" title="Resources" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
 </p>
-☮ Visit my Blog Page: [DopeSatan](https://www.dopesatan.ml/)
+☮ Visit my Blog Page: https://www.dopesatan.ml
 
 ## 📱 Technologies Learnt
 
@@ -41,6 +42,12 @@ I share my knowledge by creating Cybersecurity & other Technology based videos.
 🔸 Digital marketing <br>
 
 ## 🌎 Social Handles
+
+<a href="https://youtube.com/DopeSatan">
+
+  <img align="left" alt="DopeSatan - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
+
+</a>
 
 <a href="https://linkedin.com/in/utsanjan">
 
