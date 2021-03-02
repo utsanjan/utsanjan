@@ -8,16 +8,10 @@
 * 🎨 I'm a self-taught UI/UX designer
 * 📱 I make Android applications
 * 🎓 I'm a Computer Science & Engineering student (graduating in 2022)
-* 🌐 You can find my articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/)
+* 🌐 I like writing Tech Articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/)
 * 📺 I make Cybersecurity & Tech Videos on [YouTube](https://www.youtube.com/c/DopeSatan)
 
-## 
-
-<a href="https://youtube.com/DopeSatan">
-
-  <img align="left" alt="DopeSatan - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
-
-</a>
+## 🌎 Social Handles
 
 <a href="https://linkedin.com/in/utsanjan">
 
@@ -50,21 +44,31 @@
 Currently persuing for my BTech degree on Computer Science & Engineering.  
 I share my knowledge by creating Cybersecurity & other Technology based videos.  
 
-Check out my Youtube channel:<br>
+✨ Check out my Youtube channel:<br>
 <p align="left">
   <a href="https://www.youtube.com/dopesatan?sub_confirmation=true"><img alt="YouTube Subscribe" title="YouTube" src="https://1.bp.blogspot.com/-oDPQc9N0QYc/YD6Jn5zn7jI/AAAAAAAAbYw/809suuJdqDY5gI9pjF7ViWOI_DrwGbaEQCLcBGAsYHQ/w200-h100/subscribe-5408999_1280.webp"/></a>
 <br><a href="https://fillboards.com/options"><img alt="Resources" title="Resources" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
 </p>
 
-## Technologies Learnt
+## 📱 Technologies Learnt
 
-- Adobe XD, Adobe Illustrator, Photoshop CC, SparkAR Studio
-- Java, Python, C++, HTML5, Javascript, CSS, SQL
+🔸 Adobe XD <br>
+🔸 Adobe Illustrator <br>
+🔸 Photoshop CC <br>
+🔸 SparkAR Studio <br>
+🔸 Java <br>
+🔸 Python <br>
+🔸 C and C++ <br>
+🔸 HTML5 <br>
+🔸 CSS <br>
+🔸 SQL <br>
+🔸 Javascript <br>
 
-## Interested in
+## 🌟 Interested in
 
-🔸 Cybersecurity
-🔸 Android application Development
-🔸 UI/UX Designing
+🔸 Cybersecurity <br>
+🔸 Application Development <br>
+🔸 UI/UX Designing <br>
+🔸 Digital marketing <br>
 
 ☮ Visit my Blog Page: [DopeSatan](https://www.dopesatan.ml/)
