@@ -5,9 +5,9 @@
 ## 🧑🏻‍💻 About me
 
 * 💻 I love Cybersecurity & Technology 
-* 🎨 I'm a self-taught UI/UX designer
-* 📱 I make Android applications
-* 🎓 I'm a Computer Science & Engineering student (graduating in 2022)
+* 🎨 I am a self-taught UI/UX designer
+* 📱 I make Android applications mostly by using Java
+* 🎓 Currently persuing for my BTech degree on Computer Science & Engineering
 * 🌐 I like writing Tech Articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/)
 * 📺 I make Cybersecurity & Tech Videos on [YouTube](https://www.youtube.com/c/DopeSatan)
 
