@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://camo.githubusercontent.com/1fceebed807adf3625de6c1f6d9ac5ebea7a8a23f8a9d544a0d774443cc8f6b2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a70566e433635446d596579524c344c48532f67697068792e676966" height="175px"/></a>
 
-<h3 align="center">Hello World, I'm <a href="https://www.dopesatan.ml/">Utsanjan</a> - aka DopeSatan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hello World, I'm <a href="https://www.dopesatan.ml/">Utsanjan</a> - aka DopeSatan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3><br>
 
 
 ## 🧑🏻‍💻 ABOUT ME
@@ -20,7 +20,7 @@ and other Technology based videos... <br>
   <a href="https://www.youtube.com/dopesatan?sub_confirmation=true"><img alt="YouTube Subscribe" title="YouTube" src="https://1.bp.blogspot.com/-oDPQc9N0QYc/YD6Jn5zn7jI/AAAAAAAAbYw/809suuJdqDY5gI9pjF7ViWOI_DrwGbaEQCLcBGAsYHQ/w200-h100/subscribe-5408999_1280.webp"/></a>
 <br><a href="https://fillboards.com/options"><img alt="Resources" title="Resources" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
 </p>
-⇨ Visit my Blog Page: https://www.dopesatan.ml 
+⇨ 𝗩𝗶𝘀𝗶𝘁 𝗺𝘆 𝗕𝗹𝗼𝗴 𝗣𝗮𝗴𝗲: https://www.dopesatan.ml 
 
 
 ## 🧠 TECHNOLOGIES LEARNT
