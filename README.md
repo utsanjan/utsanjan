@@ -2,6 +2,7 @@
 
 <h3 align="center">Hello World, I'm <a href="https://www.dopesatan.ml/">Utsanjan</a> - aka DopeSatan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
+
 ## 🧑🏻‍💻 About me
 
 * 💻 I love Cybersecurity & Technology 
@@ -20,6 +21,7 @@ I share my knowledge by creating Cybersecurity & other Technology based videos. 
 </p>
 ⇨ Visit my Blog Page: https://www.dopesatan.ml
 
+
 ## 🧠 Technologies Learnt
 
 🔸 Java <br>
@@ -32,12 +34,14 @@ I share my knowledge by creating Cybersecurity & other Technology based videos. 
 🔸 Javascript <br>
 🔸 Machine Learning <br>
 
+
 ## 🌟 Interested in
 
 🔸 Cybersecurity <br>
 🔸 Application Development <br>
 🔸 UI/UX Designing <br>
 🔸 Digital marketing <br>
+
 
 ## 🌎 Social Handles
 
