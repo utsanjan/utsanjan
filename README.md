@@ -13,7 +13,7 @@
 * I make Cybersecurity & Tech Videos on [YouTube](https://www.youtube.com/c/DopeSatan)
 
 <br>
-⇨ 𝗩𝗶𝘀𝗶𝘁 𝗺𝘆 𝗕𝗹𝗼𝗴 𝗣𝗮𝗴𝗲: https://www.dopesatan.ml
+✨ 𝗩𝗶𝘀𝗶𝘁 𝗺𝘆 𝗕𝗹𝗼𝗴 𝗣𝗮𝗴𝗲: https://www.dopesatan.ml
 <br>I share my knowledge by creating Cybersecurity and other Technology based videos... <br>
 ↳ 𝗗𝗼 𝗰𝗵𝗲𝗰𝗸 𝗼𝘂𝘁 𝗺𝘆 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗰𝗵𝗮𝗻𝗻𝗲𝗹:<br>
 <p align="left">
