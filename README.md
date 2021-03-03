@@ -14,7 +14,7 @@
 
 <br>
 ✨ 𝗩𝗶𝘀𝗶𝘁 𝗺𝘆 𝗕𝗹𝗼𝗴 𝗣𝗮𝗴𝗲: https://www.dopesatan.ml
-<br>I share my knowledge by creating Cybersecurity and other Technology based videos... <br>
+<br>I share my knowledge by creating Cybersecurity and other Technology based videos. <br>
 ↳ 𝗗𝗼 𝗰𝗵𝗲𝗰𝗸 𝗼𝘂𝘁 𝗺𝘆 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗰𝗵𝗮𝗻𝗻𝗲𝗹:<br>
 <p align="left">
   <a href="https://www.youtube.com/dopesatan?sub_confirmation=true"><img alt="YouTube Subscribe" title="YouTube" src="https://1.bp.blogspot.com/-oDPQc9N0QYc/YD6Jn5zn7jI/AAAAAAAAbYw/809suuJdqDY5gI9pjF7ViWOI_DrwGbaEQCLcBGAsYHQ/w200-h100/subscribe-5408999_1280.webp"/></a>
