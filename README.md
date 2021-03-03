@@ -44,7 +44,7 @@ I share my knowledge by creating Cybersecurity and other Technology based videos
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsanjan/)
 [![](https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/uavTPkr/)
 
-### OS
+### 🖥 OPERATING SYSTEMS
 
 [![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/store/b/windows/)
