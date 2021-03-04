@@ -4,7 +4,7 @@
 <a href="https://github.com/utsanjan?tab=repositories"><img align="left" width="150" height="150" src="https://media4.giphy.com/media/DGaZTLF390Z0s/200.gif"></a>
 <br>
 ➜ㅤI love Cybersecurity & Technology <br>
-➜ㅤI am a self-taught UI/UX designer <br>
+➜ㅤI am a self-taught UI and UX designer <br>
 ➜ㅤI make Android applications mostly by using Java <br>
 ➜ㅤCurrently persuing my BTech degree on Computer Sc. & Engineering <br>
 ➜ㅤI like writing Tech Articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/) <br>
