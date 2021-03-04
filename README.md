@@ -9,7 +9,7 @@
 ➜ㅤI love Cybersecurity & Technology <br>
 ➜ㅤI am a self-taught UI/UX designer <br>
 ➜ㅤI make Android applications mostly by using Java <br>
-➜ㅤCurrently persuing for my BTech degree on Computer Science & Engineering <br>
+➜ㅤI'm currently persuing my BTech degree on Computer Sc. & Engineering <br>
 ➜ㅤI like writing Tech Articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/) <br>
 ➜ㅤI make Cybersecurity & Tech related Videos on [YouTube](https://www.youtube.com/c/DopeSatan) <br>
 
