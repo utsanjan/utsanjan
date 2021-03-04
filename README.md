@@ -6,12 +6,12 @@
 
 ## 🧑🏻‍💻 ABOUT ME
 
-➜ I love Cybersecurity & Technology <br>
-➜ I am a self-taught UI/UX designer <br>
-➜ I make Android applications mostly by using Java <br>
-➜ Currently persuing for my BTech degree on Computer Science & Engineering <br>
-➜ I like writing Tech Articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/) <br>
-➜ I make Cybersecurity & Tech related Videos on [YouTube](https://www.youtube.com/c/DopeSatan) <br>
+➜ㅤI love Cybersecurity & Technology <br>
+➜ㅤI am a self-taught UI/UX designer <br>
+➜ㅤI make Android applications mostly by using Java <br>
+➜ㅤCurrently persuing for my BTech degree on Computer Science & Engineering <br>
+➜ㅤI like writing Tech Articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/) <br>
+➜ㅤI make Cybersecurity & Tech related Videos on [YouTube](https://www.youtube.com/c/DopeSatan) <br>
 
 <br>
 🌟 𝗩𝗜𝗦𝗜𝗧 𝗠𝗬 𝗕𝗟𝗢𝗚 𝗣𝗔𝗚𝗘: https://www.dopesatan.ml
