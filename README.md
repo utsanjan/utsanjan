@@ -1,6 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://camo.githubusercontent.com/1fceebed807adf3625de6c1f6d9ac5ebea7a8a23f8a9d544a0d774443cc8f6b2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a70566e433635446d596579524c344c48532f67697068792e676966" height="175px"/></a>
 
-<h3 align="center">Hello World, I'm <a href="https://www.dopesatan.ml/">Utsanjan</a> - aka DopeSatan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3><br>
+<h3 align="center">𝗛𝗘𝗟𝗟𝗢 𝗪𝗢𝗥𝗟𝗗, 𝗜 𝗔𝗠 <a href="https://www.dopesatan.ml/">𝗨𝗧𝗦𝗔𝗡𝗝𝗔𝗡 𝗠𝗔𝗜𝗧𝗬</a></h3><br>
+<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3><br>
 
 
 ## 🧑🏻‍💻 ABOUT ME
