@@ -2,13 +2,13 @@
 
 <h3 align="center">𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱, 𝗜'𝗺 <a href="https://github.com/utsanjan/">𝗨𝘁𝘀𝗮𝗻𝗷𝗮𝗻</a> - 𝗮𝗸𝗮 𝗗𝗼𝗽𝗲𝗦𝗮𝘁𝗮𝗻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3><br>
 
-
-## 🧑🏻‍💻 ABOUT ME
+## 🧑🏻‍💻 ABOUT ME 
+<a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 ➜ㅤI love Cybersecurity & Technology <br>
 ➜ㅤI am a self-taught UI/UX designer <br>
 ➜ㅤI make Android applications mostly by using Java <br>
-➜ㅤI'm currently persuing my BTech degree on Computer Sc. & Engineering <br>
+➜ㅤCurrently persuing my BTech degree on Computer Sc. & Engineering <br>
 ➜ㅤI like writing Tech Articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/) <br>
 ➜ㅤI make Cybersecurity & Tech related Videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
 
