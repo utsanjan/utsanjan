@@ -16,7 +16,7 @@
 ↳ 𝗗𝗼 𝗰𝗵𝗲𝗰𝗸 𝗼𝘂𝘁 𝗺𝘆 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗰𝗵𝗮𝗻𝗻𝗲𝗹:<br>
 <p align="left">
   <a href="https://www.youtube.com/dopesatan?sub_confirmation=true"><img alt="YouTube Subscribe" title="YouTube" src="https://1.bp.blogspot.com/-oDPQc9N0QYc/YD6Jn5zn7jI/AAAAAAAAbYw/809suuJdqDY5gI9pjF7ViWOI_DrwGbaEQCLcBGAsYHQ/w200-h100/subscribe-5408999_1280.webp"/></a>
-<br><a href="https://fillboards.com/options"><img alt="Resources" title="Resources" src="https://1.bp.blogspot.com/-Z0DQ3JO4ruI/YECNZ7SnC1I/AAAAAAAAbbI/eb9Ur_fVXQMRzqiByWjh8kxlP3Lk3orOQCLcBGAsYHQ/s200/imageonline-co-roundcorner.png"/></a>
+<a href="https://fillboards.com/options"><img alt="Resources" title="Resources" src="https://1.bp.blogspot.com/-Z0DQ3JO4ruI/YECNZ7SnC1I/AAAAAAAAbbI/eb9Ur_fVXQMRzqiByWjh8kxlP3Lk3orOQCLcBGAsYHQ/s200/imageonline-co-roundcorner.png"/></a>
 </p> 
 
 
