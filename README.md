@@ -7,7 +7,7 @@
 ➜ㅤI am a self-taught UI and UX designer <br>
 ➜ㅤI make Android applications mostly by using Java <br>
 ➜ㅤI like writing Tech Articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/) <br>
-➜ㅤI make Cybersecurity & Tech related Videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
+➜ㅤI make Cybersecurity and Tech related Videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
 ➜ㅤCurrently persuing BTech on Computer Science & Engineering 
 
 <br>
