@@ -8,7 +8,7 @@
 ➜ㅤI make Android applications mostly by using Java <br>
 ➜ㅤI like writing Tech Articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/) <br>
 ➜ㅤI make Cybersecurity and Tech related Videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
-➜ㅤCurrently persuing BTech on Computer Science & Engineering 
+➜ㅤCurrently persuing BTech on Computer Science & Engineering <br>
 
 <br>
 🌟 𝗩𝗜𝗦𝗜𝗧 𝗠𝗬 𝗕𝗟𝗢𝗚 𝗣𝗔𝗚𝗘: https://www.dopesatan.ml
