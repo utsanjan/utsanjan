@@ -30,6 +30,16 @@
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 
+## 🌎 Social Handles
+
+[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/utsanjan/)
+[![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/utsanjan/)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/utsanjan/)
+[![](https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/DopeSatan/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsanjan/)
+[![](https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/uavTPkr/)
+
+
 ## 🧠 Technologies Learnt
 
 [![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/utsanjan#)
@@ -39,13 +49,4 @@
 [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/utsanjan#)
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/utsanjan#)
 [![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)](https://github.com/utsanjan#)
-
-
-## 🌎 Social Handles
-
-[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/utsanjan/)
-[![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/utsanjan/)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/utsanjan/)
-[![](https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/DopeSatan/)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsanjan/)
-[![](https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/uavTPkr/)
+[![](https://camo.githubusercontent.com/0421d011f8b40bfb9734f464e22549640d81741b8404f284f2b1e90cb04ed7e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c6974652d2532333037343035652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465)](https://github.com/utsanjan#)
