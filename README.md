@@ -9,7 +9,7 @@
 ➜ㅤI like writing Tech Articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/) <br>
 ➜ㅤI make Cybersecurity & Tech related Videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
 ➜ㅤCurrently persuing my BTech degree on<br>
-ㅤ  Computer Science and Engineering 
+ㅤ    Computer Science and Engineering 
 
 <br>
 🌟 𝗩𝗜𝗦𝗜𝗧 𝗠𝗬 𝗕𝗟𝗢𝗚 𝗣𝗔𝗚𝗘: https://www.dopesatan.ml
