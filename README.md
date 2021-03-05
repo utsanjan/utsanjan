@@ -1,8 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://1.bp.blogspot.com/-FAe2fHdwqCU/YEIFS2TkmOI/AAAAAAAAbhI/XhjlUymKKVc1kUB6wZkjbXt1jCZ6SGtfQCLcBGAsYHQ/s0/Banner.gif" height="175px"/></a>
 
 ## 🧑🏻‍💻 Hello World, I'm Utsanjan - aka DopeSatan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/><br>
-<a href="https://github.com/utsanjan?tab=repositories"><img align="left" width="150" height="150" src="https://1.bp.blogspot.com/-5LhN9IR3s2Q/YEHswddgKRI/AAAAAAAAbgc/jFf_o8r4l-kFP3VHlmJzQIU23ozYBMtxQCLcBGAsYHQ/s16000/Mario.gif"></a>
-####
+<a href="https://github.com/utsanjan?tab=repositories"><img align="left" width="150" height="150" src="https://1.bp.blogspot.com/-Qbm0FYiy5iE/YEIGMn6VmtI/AAAAAAAAbhQ/u0jRoaIIVtUu1TFuErjD9j9PYkyOrXfBwCLcBGAsYHQ/w200-h200/Mario.gif"></a>
+<br>
 ➜ㅤI love Cybersecurity & Technology <br>
 ➜ㅤI am a self-taught UI and UX designer <br>
 ➜ㅤI make Android applications mostly by using Java <br>
