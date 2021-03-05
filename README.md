@@ -49,4 +49,4 @@
 [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/utsanjan#)
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/utsanjan#)
 [![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)](https://github.com/utsanjan#)
-[![](https://camo.githubusercontent.com/0421d011f8b40bfb9734f464e22549640d81741b8404f284f2b1e90cb04ed7e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c6974652d2532333037343035652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465)](https://github.com/utsanjan#)
+[![](https://camo.githubusercontent.com/4303329d99a984bee1072fe8bb49f8271f4d098435edbf5618d5d6c325aec55c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41726475696e6f2d3030393739443f7374796c653d666f722d7468652d6261646765266c6f676f3d41726475696e6f266c6f676f436f6c6f723d7768697465)](https://github.com/utsanjan#)
