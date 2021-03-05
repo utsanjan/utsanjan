@@ -1,16 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://camo.githubusercontent.com/1fceebed807adf3625de6c1f6d9ac5ebea7a8a23f8a9d544a0d774443cc8f6b2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a70566e433635446d596579524c344c48532f67697068792e676966" height="175px"/></a>
 
 ## 🧑🏻‍💻 Hello World, I'm Utsanjan - aka DopeSatan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/><br>
-<a href="https://github.com/utsanjan?tab=repositories"><img align="left" width="150" height="150" src="https://1.bp.blogspot.com/-cigFjG8_uns/YEHiVzzLHHI/AAAAAAAAbgU/hiXPCVWcpMsoxCXnSYR0dVxlbIITPAzaQCLcBGAsYHQ/s16000/Mario.gif"></a>
-######
+<a href="https://github.com/utsanjan?tab=repositories"><img align="left" width="150" height="150" src="https://1.bp.blogspot.com/-5LhN9IR3s2Q/YEHswddgKRI/AAAAAAAAbgc/jFf_o8r4l-kFP3VHlmJzQIU23ozYBMtxQCLcBGAsYHQ/s16000/Mario.gif"></a>
 ➜ㅤI love Cybersecurity & Technology <br>
 ➜ㅤI am a self-taught UI and UX designer <br>
 ➜ㅤI make Android applications mostly by using Java <br>
 ➜ㅤI like writing Tech Articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/) <br>
 ➜ㅤI make Cybersecurity and Tech related Videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
-➜ㅤCurrently persuing BTech on Computer Science & Engineering
+➜ㅤCurrently persuing BTech on Computer Science & Engineering <br>
 
-<br><br>
 🌟 𝗩𝗜𝗦𝗜𝗧 𝗠𝗬 𝗕𝗟𝗢𝗚 𝗣𝗔𝗚𝗘: https://www.dopesatan.ml
 <br>I share my knowledge by creating Cybersecurity
 <br>and other Technology reated tutorial videos. <br>
