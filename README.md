@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://camo.githubusercontent.com/1fceebed807adf3625de6c1f6d9ac5ebea7a8a23f8a9d544a0d774443cc8f6b2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a70566e433635446d596579524c344c48532f67697068792e676966" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="hhttps://1.bp.blogspot.com/-oixQFijFPtY/YEICLw-nvrI/AAAAAAAAbhA/H1P31WQYN080OTewFySoVDYXaMogQhObQCLcBGAsYHQ/s16000/Banner.gif" height="175px"/></a>
 
 ## 🧑🏻‍💻 Hello World, I'm Utsanjan - aka DopeSatan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/><br>
 <a href="https://github.com/utsanjan?tab=repositories"><img align="left" width="150" height="150" src="https://1.bp.blogspot.com/-5LhN9IR3s2Q/YEHswddgKRI/AAAAAAAAbgc/jFf_o8r4l-kFP3VHlmJzQIU23ozYBMtxQCLcBGAsYHQ/s16000/Mario.gif"></a>
