@@ -2,12 +2,12 @@
 
 ## 🧑🏻‍💻 Hello World, I'm Utsanjan - aka DopeSatan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/><br>
 <a href="https://github.com/utsanjan?tab=repositories"><img align="left" width="150" height="150" src="https://1.bp.blogspot.com/-QFhKdsuoCKQ/YEIJFa44NZI/AAAAAAAAbh4/q-sgWx4oXmMl_bGq4TLvSFcp4XYLOIy2gCLcBGAsYHQ/s0/mario.gif"></a><br>
-➜ㅤI love Cybersecurity & Technology <br>
-➜ㅤI am a self-taught UI and UX designer <br>
-➜ㅤI make Android applications mostly by using Java <br>
-➜ㅤI like writing Tech Articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/) <br>
-➜ㅤI make Cybersecurity and Tech related Videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
 ➜ㅤCurrently pursuing BTech in Computer Science & Engineering <br>
+➜ㅤI make Cybersecurity and Tech related Videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
+➜ㅤI like writing Tech Articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/) <br>
+➜ㅤI make Android applications mostly by using Java <br>
+➜ㅤI am a self-taught UI and UX designer <br>
+➜ㅤI love Cybersecurity & Technology <br>
 <br><br>
 🌟 𝗩𝗜𝗦𝗜𝗧 𝗠𝗬 𝗕𝗟𝗢𝗚 𝗣𝗔𝗚𝗘: https://www.dopesatan.ml
 <br>I share my knowledge by creating Cybersecurity
