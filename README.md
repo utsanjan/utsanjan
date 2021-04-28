@@ -9,7 +9,7 @@
 ➜ㅤI am a self-taught UI and UX designer <br>
 ➜ㅤI love Technology & Cybersecurity <br><br>
 
-## 🖥 Operating Systems
+## 🖥 Operating Systems Used
 
 [![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/windows/)
