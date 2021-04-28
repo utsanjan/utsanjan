@@ -7,7 +7,7 @@
 ➜ㅤI like writing Tech Articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/) <br>
 ➜ㅤI make Android applications mostly by using Java <br>
 ➜ㅤI am a self-taught UI and UX designer <br>
-➜ㅤI love Technology & Cybersecurity <br>
+➜ㅤI love Technology & Cybersecurity <br><br>
 
 ## 🖥 Operating Systems
 
