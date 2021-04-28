@@ -30,8 +30,8 @@
 
 ## 🌎 Social Handles
 
-[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/utsanjan/)
 [![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/utsanjan/)
+[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/utsanjan/)
 [![](https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/DopeSatan/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsanjan/)
 [![](https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/uavTPkr/)
