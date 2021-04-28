@@ -4,8 +4,8 @@
 
 [![GitHub User's stars](https://img.shields.io/github/stars/utsanjan?style=plastic)](https://github.com/utsanjan#)
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=plastic)](https://github.com/utsanjan#)
-[![Blog Page](https://img.shields.io/website?label=DopeSatan&url=https%3A%2F%2Fwww.dopesatan.ml%2F)](https://www.dopesatan.ml/)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=plastic)](https://www.youtube.com/dopesatan) <br>
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=plastic)](https://www.youtube.com/dopesatan)
+[![Blog Page](![Website](https://img.shields.io/website?label=DopeSatan&style=plastic&url=https%3A%2F%2Fwww.dopesatan.ml%2F))](https://www.dopesatan.ml/) <br>
 
 ➜ㅤCurrently pursuing BTech on Computer Science & Engineering <br>
 ➜ㅤI make Cybersecurity and Tech related Videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
