@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://www.youtube.com/dopesatan?sub_confirmation=true"><img alt="YouTube Subscribe" title="YouTube" src="https://1.bp.blogspot.com/-oDPQc9N0QYc/YD6Jn5zn7jI/AAAAAAAAbYw/809suuJdqDY5gI9pjF7ViWOI_DrwGbaEQCLcBGAsYHQ/w200-h100/subscribe-5408999_1280.webp"/></a>
 <br><a href="https://fillboards.com/options"><img alt="Resources" title="Resources" src="https://1.bp.blogspot.com/-Z0DQ3JO4ruI/YECNZ7SnC1I/AAAAAAAAbbI/eb9Ur_fVXQMRzqiByWjh8kxlP3Lk3orOQCLcBGAsYHQ/s200/imageonline-co-roundcorner.png"/></a>
-</p> 
+</p>
 
 
 ## 🖥 Operating Systems
@@ -50,4 +50,3 @@
 [![](https://camo.githubusercontent.com/4303329d99a984bee1072fe8bb49f8271f4d098435edbf5618d5d6c325aec55c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41726475696e6f2d3030393739443f7374796c653d666f722d7468652d6261646765266c6f676f3d41726475696e6f266c6f676f436f6c6f723d7768697465)](https://github.com/utsanjan#)
 
 [![Utsanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=utsanjan&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/utsanjan#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utsanjan&layout=compact&theme=tokyonight)](https://github.com/utsanjan#)
