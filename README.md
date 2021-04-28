@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/utsanjan/utsanjan/main/Terminal.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/utsanjan/utsanjan/main/cliStats.gif" height="175px"/></a>
 
 ## 🧑🏻‍💻 Hello World, I'm Utsanjan - aka DopeSatan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/><br>
 <a href="https://github.com/utsanjan?tab=repositories"><img align="left" width="150" height="150" src="https://1.bp.blogspot.com/-QFhKdsuoCKQ/YEIJFa44NZI/AAAAAAAAbh4/q-sgWx4oXmMl_bGq4TLvSFcp4XYLOIy2gCLcBGAsYHQ/s0/mario.gif"></a><br>
