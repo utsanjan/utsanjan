@@ -6,9 +6,9 @@
 ➜ㅤI like writing Tech Articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/) <br>
 ➜ㅤI make Android applications mostly by using Java <br>
 ➜ㅤI am a self-taught UI and UX designer <br>
-➜ㅤI love Technology & Cybersecurity <br><br>
+➜ㅤI love Technology & Cybersecurity <br>
 
-## 🖥 Operating Systems Used
+## 🖥 Operating Systems
 
 [![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/windows/)
