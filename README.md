@@ -4,7 +4,7 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/utsanjan?style=plastic)
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=plastic)](https://github.com/utsanjan#)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=plastic)<br>
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=plastic) <br>
 
 ➜ㅤCurrently pursuing BTech on Computer Science & Engineering <br>
 ➜ㅤI make Cybersecurity and Tech related Videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
