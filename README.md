@@ -8,7 +8,6 @@
 ➜ㅤI make Android applications mostly by using Java <br>
 ➜ㅤI am a self-taught UI and UX designer <br>
 ➜ㅤI love Technology & Cybersecurity <br>
-<br><br>
 
 ## 🖥 Operating Systems
 
