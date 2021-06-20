@@ -8,12 +8,14 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=plastic)](https://www.youtube.com/dopesatan)‎ ‎
 [![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=plastic&url=https%3A%2F%2Fwww.dopesatan.ml%2F)](https://www.dopesatan.ml/) <br>
 
-➜ㅤCurrently pursuing BTech on Computer Science & Engineering <br>
-➜ㅤI make Cybersecurity and Tech related Videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
-➜ㅤI like writing Tech Articles on my Blog Page: [DopeSatan](https://www.dopesatan.ml/) <br>
-➜ㅤI make Android applications mostly by using Java <br>
-➜ㅤI am a self-taught UI and UX designer <br>
-➜ㅤI love Technology & Cybersecurity <br>
+**Here are some points about myself & the stuff I work with:** <br>
+➜ㅤPursuing BTech on Computer Science & Engineering <br>
+➜ㅤMake CyberSecurity and Tech Videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
+➜ㅤWrite Tech Articles on my BlogPage [DopeSatan](https://www.dopesatan.ml/) <br>
+➜ㅤMake Android Applications mostly by Java <br>
+➜ㅤSelf teaching myself UI & UX designing <br>
+➜ㅤI am also a Cyber Security Enthusiast <br>
+➜ㅤLearning MEAN Stack Development <br>
 
 ## 🌎 Social Handles
 
