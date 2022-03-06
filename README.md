@@ -29,7 +29,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ropqd325w883lo9x05iiqw4ej&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://openinapp.co/spotify/ea6de) <br>
 
-<a href="#"><img width="300" height="auto" src="https://blogger.googleusercontent.com/img/a/AVvXsEhoOmIZHi7rA4XeOQL0U5Dg4zSN5eQFjUTCGMMubb4gHYHkhAfSs4XL0ogLxt1VrWrQx5KToO1HI7WoQ6ziexZchXu18HevofpkiXMa-SzShAFLLzBp5wYfa6ZH6SYL2q3Bn0oXR66pbb1BnvDyxTttPRc8t8aS6qScxXft4LXUYZXUqdbX764DuyWk=s16000" height="auto"/></a>
+<a href="https://openinapp.co/spotify/ea6de"><img width="300" height="auto" src="https://blogger.googleusercontent.com/img/a/AVvXsEhoOmIZHi7rA4XeOQL0U5Dg4zSN5eQFjUTCGMMubb4gHYHkhAfSs4XL0ogLxt1VrWrQx5KToO1HI7WoQ6ziexZchXu18HevofpkiXMa-SzShAFLLzBp5wYfa6ZH6SYL2q3Bn0oXR66pbb1BnvDyxTttPRc8t8aS6qScxXft4LXUYZXUqdbX764DuyWk=s16000" height="auto"/></a>
 
 ## 🧠 Technologies Learnt
 
