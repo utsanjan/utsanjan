@@ -1,7 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/utsanjan/utsanjan/main/cliStats.gif" height="175px"/></a>
 
 <a href="https://app.daily.dev/utsanjan"><img align="right" src="https://api.daily.dev/devcards/43ade3042e3244fa9ec18bdabdc2a236.png?r=ulb" width="250" alt="Utsanjan Maity's Dev Card"/></a>
-## ‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎
 
 ### 🧑🏻‍💻 Hello World, I'm Utsanjan - aka DopeSatan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/><br>
 
