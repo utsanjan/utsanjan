@@ -32,9 +32,6 @@
 
 ## 🧠 Technologies Learnt
 
-
-###### Note: The most used languages denote the languages used in my repositories, it doesn't denote my skills in that language.<br>
-
 [![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/utsanjan#)
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/utsanjan#)
 [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/utsanjan#)
@@ -46,3 +43,5 @@
 [![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)](https://github.com/utsanjan#)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utsanjan&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/utsanjan#)
+
+###### Note: The most used languages denote the languages used in my repositories, it doesn't denote my skills in that language.<br>
