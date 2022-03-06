@@ -16,7 +16,7 @@
 ➜ㅤMake Android Applications mostly by Java <br>
 ➜ㅤSelf teaching myself UI & UX designing <br>
 ➜ㅤI am also a Cyber Security Enthusiast <br>
-➜ㅤLearning MEAN Stack Development <br>
+➜ㅤLearning MEAN Stack Development
 
 ## 🌎 Social Handles
 
