@@ -18,7 +18,7 @@
 ➜ㅤI am also a Cyber Security Enthusiast <br>
 ➜ㅤLearning MEAN Stack Development
 
-## 🌎 Social Handles
+## 🌎 Social Media Handles
 
 [![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/utsanjan/)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/utsanjan/)
