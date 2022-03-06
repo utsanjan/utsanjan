@@ -1,4 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/utsanjan/utsanjan/main/cliStats.gif" height="175px"/></a>
+
+<a href="https://app.daily.dev/utsanjan"><img src="https://api.daily.dev/devcards/43ade3042e3244fa9ec18bdabdc2a236.png?r=802" width="13.5%" alt="Utsanjan Maity's Dev Card"/></a>‎ ‎‎ ‎‎ ‎‎<a href="#"><img width="80%" height="auto" src="https://raw.githubusercontent.com/utsanjan/utsanjan/main/cliStats.gif" height="175px"/></a>
 
 ## 🧑🏻‍💻 Hello World, I'm Utsanjan - aka DopeSatan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/><br>
 
@@ -9,6 +10,7 @@
 [![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=plastic&url=https%3A%2F%2Fwww.dopesatan.ml%2F)](https://www.dopesatan.ml/) <br>
 
 **Here are some points about myself & the stuff I work with:** <br>
+
 ➜ㅤPursuing BTech on Computer Science & Engineering <br>
 ➜ㅤMake CyberSecurity and Tech Videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
 ➜ㅤWrite Tech Articles on my BlogPage [DopeSatan](https://www.dopesatan.ml/) <br>
