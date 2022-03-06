@@ -2,7 +2,7 @@
 
 <a href="https://app.daily.dev/utsanjan"><img align="right" src="https://api.daily.dev/devcards/43ade3042e3244fa9ec18bdabdc2a236.png?r=ulb" width="250" alt="Utsanjan Maity's Dev Card"/></a>
 
-### ‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎<br>🧑🏻‍💻 Hello World, I'm Utsanjan Maity - aka DopeSatan ‎ ‎‎ ‎‎ ‎<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/><br>
+### ‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ <br>🧑🏻‍💻 Hello World, I'm Utsanjan - aka DopeSatan ‎ ‎‎ ‎‎ ‎<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/><br>
 
 [![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=plastic)](https://github.com/utsanjan#)‎ ‎
@@ -18,7 +18,7 @@
 ➜ㅤI am also a Cyber Security Enthusiast <br>
 ➜ㅤLearning MEAN Stack Development
 
-### 🌎 Social Media Handles
+## 🌎 Social Media Handles
 
 [![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/utsanjan/)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/utsanjan/)
@@ -31,7 +31,7 @@
 
 <a href="https://openinapp.co/spotify/ea6de"><img width="300" height="auto" src="https://blogger.googleusercontent.com/img/a/AVvXsEgO9tQtloJeSMZPkZQpHkLweC9xlFcIw_Hqe_Gpx1fAi3cgVFQRtG3f3VT_F4_0DkOYnNdYPRN4JbI4caX569yGkMLAje3VPb9yHR4SzvWYLoLEE0HwFO3xRKHDnIyfNBnrXNhb9PtVYGgsshJ9pSPCAbYcVeHC6TuQx-ItspH0RO2fTP40OwFSIxHg=s16000" height="auto"/></a>
 
-### 🧠 Technologies Learnt
+## 🧠 Technologies Learnt
 
 [![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/utsanjan#)
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/utsanjan#)
