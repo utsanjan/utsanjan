@@ -12,11 +12,11 @@
 **Here are some points about myself & the stuff I work with:** <br>
 ➜ㅤPursuing BTech on Computer Science & Engineering <br>
 ➜ㅤMake CyberSecurity and Tech Videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
-➜ㅤWrite Tech Articles on my BlogPage [DopeSatan](https://www.dopesatan.ml/) <br>
+➜ㅤWrite Tech Articles on my BlogPage [DopeSatan](https://www.dopesatan.ml) <br>
 ➜ㅤMake Android Applications mostly by Java <br>
 ➜ㅤSelf teaching myself UI & UX designing <br>
-➜ㅤI am also a Cyber Security Enthusiast <br>
-➜ㅤLearning MEAN Stack Development
+➜ㅤI'm also a Cyber Security Enthusiast <br>
+➜ㅤProject Engineer at [Wipro Limited](https://www.wipro.com)
 
 ## 🌎 Social Media Handles
 
