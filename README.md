@@ -39,7 +39,7 @@
 [![](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/utsanjan#)<br>
 [![](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/utsanjan#)
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/utsanjan#)
-[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/utsanjan#)
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/utsanjan#)
 [![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)](https://github.com/utsanjan#)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utsanjan&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/utsanjan#)
