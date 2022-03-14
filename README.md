@@ -2,7 +2,7 @@
 
 <a href="https://app.daily.dev/utsanjan"><img align="right" src="https://api.daily.dev/devcards/43ade3042e3244fa9ec18bdabdc2a236.png?r=ulb" width="255" alt="Utsanjan Maity's Dev Card"/></a>
 
-## 🧑🏻‍💻 Hello World, I'm Utsanjan - aka DopeSatan ‎ ‎‎ ‎<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/><br>
+## 🧑🏻‍💻 ‎ ‎Hello World, I'm Utsanjan - aka DopeSatan ‎ ‎‎ ‎<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/><br>
 
 [![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=plastic)](https://github.com/utsanjan#)‎ ‎
@@ -18,7 +18,7 @@
 ➜ㅤI'm also a Cyber Security Enthusiast <br>
 ➜ㅤProject Engineer at [Wipro Limited](https://www.wipro.com)
 
-## 🌎 Social Media Handles
+## 🌎 ‎ ‎Social Media Handles
 
 [![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/utsanjan/)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/utsanjan/)
@@ -28,7 +28,7 @@
 [![](https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/uavTPkr/) <br>
 [![](https://spotify-github-profile.vercel.app/api/view?uid=ropqd325w883lo9x05iiqw4ej&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://openinapp.co/spotify/ea6de)<br>[![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=ropqd325w883lo9x05iiqw4ej&width=310&count=2&unique={true|1|on|yes})](https://openinapp.co/spotify/ea6de)
 
-## 🧠 Technologies Learnt
+## 🧠 ‎ ‎Technologies Learnt
 
 [![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/utsanjan#)
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/utsanjan#)
