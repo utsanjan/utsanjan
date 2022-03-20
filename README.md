@@ -17,9 +17,9 @@
 ➜ㅤSelf teaching myself UI & UX designing <br>
 ➜ㅤI'm also a Cyber Security Enthusiast <br>
 ➜ㅤProject Engineer at [Wipro Limited](https://www.wipro.com)
-##### <br><br>
+##### <br>
+
 ## 🌎 ‎ ‎Social Media Handles
-  
 <a href="https://www.instagram.com/utsanjan/">![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://www.facebook.com/utsanjan/">![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href="https://www.youtube.com/DopeSatan/">![](https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)</a> <br>
