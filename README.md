@@ -18,7 +18,7 @@
 ➜ㅤI'm also a Cyber Security Enthusiast <br>
 ➜ㅤProject Engineer at [Wipro Limited](https://www.wipro.com)
 
-<a href="#">![Statistics](https://github-readme-stats.vercel.app/api?username=utsanjan&show_icons=true&layout=compact&theme=tokyonight)</a>
+<br><a href="#">![Statistics](https://github-readme-stats.vercel.app/api?username=utsanjan&show_icons=true&layout=compact&theme=tokyonight)</a>
 
 ## 🌎 ‎ ‎Social Media Handles
 <a href="https://www.instagram.com/utsanjan/">![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)</a>
