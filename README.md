@@ -35,9 +35,10 @@
 <a href="#">![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)</a>
-<a href="#">![](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)</a><br>
+<a href="#">![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</a>
+<a href="#">![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</a><br>
 <a href="#">![](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)</a>
-<a href="#">![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</a>
+<a href="#">![](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="#">![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)</a>
 
