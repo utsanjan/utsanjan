@@ -10,7 +10,7 @@
 [![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=plastic&url=https%3A%2F%2Fwww.dopesatan.ml%2F)](https://www.dopesatan.ml/) <br>
 
 **Here are some points about myself & the stuff I work with:** <br>
-➜ㅤPursuing BTech on Computer Science & Engineering <br>
+➜ㅤBTech graduate on Computer Science & Engineering <br>
 ➜ㅤMake CyberSecurity and Tech Videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
 ➜ㅤWrite Tech Articles on my BlogPage [DopeSatan](https://www.dopesatan.ml) <br>
 ➜ㅤMake Android Applications mostly by Java <br>
