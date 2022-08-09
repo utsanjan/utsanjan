@@ -34,8 +34,6 @@
 <a href="https://openinapp.co/spotify/ea6de">![](https://spotify-github-profile.vercel.app/api/view?uid=ropqd325w883lo9x05iiqw4ej&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)<br>![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=ropqd325w883lo9x05iiqw4ej&width=310&count=2&unique={true|1|on|yes})</a>
 
 ## 🧠 ‎ ‎Technologies Learnt
-
-###### Note: Most used languages denote the usage in my repositories, not my skills in them.
   
 <a href="#">![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
@@ -48,4 +46,6 @@
 <a href="#">![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="#">![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)</a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=utsanjan&layout=compact&theme=tokyonight&langs_count=50">![Top Langs](https://bit.ly/3zGzWRv)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utsanjan&layout=compact&theme=tokyonight&langs_count=8)</a>
+
+###### Note: Most used languages denote the usage in my repositories, not my skills in them.
