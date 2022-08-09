@@ -18,7 +18,7 @@
 ➜ㅤI'm also a Cyber Security Enthusiast <br>
 ➜ㅤProject Engineer at [Wipro Limited](https://www.wipro.com)
 
-<a href="https://skyline.github.com/utsanjan">![Statistics](https://metrics.lecoq.io/utsanjan?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=Asia%2FCalcutta)</a>
+<br><a href="https://skyline.github.com/utsanjan">![Statistics](https://metrics.lecoq.io/utsanjan?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=Asia%2FCalcutta)</a>
 
 ## 🌎 ‎ ‎Social Media Handles
 
