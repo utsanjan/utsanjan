@@ -1,4 +1,4 @@
-<a href="https://metrics.lecoq.io/insights/utsanjan"><img width="100%" height="auto" src="https://raw.githubusercontent.com/utsanjan/utsanjan/main/cliStats.gif" height="175px"/></a>
+<a href="https://skyline.github.com/utsanjan"><img width="100%" height="auto" src="https://raw.githubusercontent.com/utsanjan/utsanjan/main/cliStats.gif" height="175px"/></a>
 
 <a href="https://app.daily.dev/utsanjan"><img align="left" src="https://api.daily.dev/devcards/43ade3042e3244fa9ec18bdabdc2a236.png?r=ulb" width="215" alt="Utsanjan Maity's Dev Card"/></a>
 
@@ -18,7 +18,7 @@
 ➜ㅤI'm also a Cyber Security Enthusiast <br>
 ➜ㅤProject Engineer at [Wipro Limited](https://www.wipro.com)
 
-<br><a href="https://skyline.github.com/utsanjan">![Statistics](https://metrics.lecoq.io/utsanjan?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=Asia%2FCalcutta)</a>
+<br><a href="https://metrics.lecoq.io/insights/utsanjan">![Statistics](https://metrics.lecoq.io/utsanjan?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=Asia%2FCalcutta)</a>
 
 ## 🌎 ‎ ‎Social Media Handles
 
