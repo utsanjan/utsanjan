@@ -48,4 +48,4 @@
 <a href="#">![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="#">![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)</a>
 
-<a href="https://bit.ly/3p6BTBE">![Top Langs](https://bit.ly/3Qd4m4G)</a>
+<a href="https://bit.ly/3bJTwnJ">![Top Langs](https://bit.ly/3Qd4m4G)</a>
