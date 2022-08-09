@@ -18,7 +18,7 @@
 ➜ㅤI'm also a Cyber Security Enthusiast <br>
 ➜ㅤProject Engineer at [Wipro Limited](https://www.wipro.com)
 
-<br><a href="#">![Statistics](https://github-readme-stats.vercel.app/api?username=utsanjan&show_icons=true&layout=compact&theme=tokyonight)</a>
+<br><a href="https://metrics.lecoq.io/insights/utsanjan">![Statistics](https://github-readme-stats.vercel.app/api?username=utsanjan&show_icons=true&layout=compact&theme=tokyonight)</a>
 
 ## 🌎 ‎ ‎Social Media Handles
 
@@ -35,7 +35,7 @@
 
 ## 🧠 ‎ ‎Technologies Learnt
 
-###### Note: Most used languages denote the languages used in my repositories, not my skills in it.
+###### Note: Most used languages denote the usage in my repositories, not my skills in them.
   
 <a href="#">![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
@@ -48,4 +48,4 @@
 <a href="#">![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="#">![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)</a>
 
-<a href="#">![Top Langs](https://bit.ly/3Qd4m4G)</a>
+<a href="https://bit.ly/3p6BTBE">![Top Langs](https://bit.ly/3Qd4m4G)</a>
