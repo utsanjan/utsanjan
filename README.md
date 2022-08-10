@@ -48,4 +48,4 @@
 <a href="#">![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="#">![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)</a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=utsanjan&layout=compact&theme=tokyonight&langs_count=50">![Top Langs](https://bit.ly/3p3drkR)</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=utsanjan&layout=compact&theme=tokyonight&langs_count=50">![Most used languages](https://bit.ly/3p3drkR)</a>
