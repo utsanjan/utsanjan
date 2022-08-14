@@ -23,7 +23,7 @@
 ## 🌎 ‎ ‎Social Media Handles
 
 <details>
-<summary>‎ ‎Click here to expand</summary><br>
+<summary>‎ ‎ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴇxᴘᴀɴᴅ</summary><br>
 
 <a href="https://www.instagram.com/utsanjan/">![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://play.google.com/store/apps/dev?id=7093715858380847229">![](https://camo.githubusercontent.com/0970391e8ed2f4cf4b738e87494c203e0e13052a6b7fa0468588ff7984e9ea8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c655f506c61792d3431343134313f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d706c6179266c6f676f436f6c6f723d7768697465)</a>
@@ -39,7 +39,7 @@
 ## 🧠 ‎ ‎Technologies Learnt
 
 <details>
-<summary>‎ ‎Click here to expand</summary>
+<summary>‎ ‎ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴇxᴘᴀɴᴅ</summary>
 
 ###### Note: Most used languages denote the usage in my repositories, not my skills in them.
 
