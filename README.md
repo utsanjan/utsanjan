@@ -10,13 +10,13 @@
 [![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=plastic&url=https%3A%2F%2Fwww.dopesatan.ml%2F)](https://www.dopesatan.ml/) <br>
 
 **Here are some points about myself & the stuff I work with:** <br>
-➜‎ㅤ‎BTech grad 2022 in Computer Science & Engineering <br>
-➜‎ㅤ‎Make CyberSecurity and Tech Videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
-➜‎ㅤ‎Write Tech Articles on my BlogPage [DopeSatan](https://www.dopesatan.ml) <br>
-➜‎ㅤ‎Make Android Applications mostly by Java <br>
-➜‎ㅤ‎Self teaching myself UI & UX designing <br>
-➜‎ㅤ‎I'm also a Cyber Security Enthusiast <br>
-➜‎ㅤ‎Project Engineer at [Wipro Limited](https://www.wipro.com)
+➜‎ ‎ ‎BTech grad 2022 in Computer Science & Engineering <br>
+➜‎ ‎ ‎Make CyberSecurity and Tech Videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
+➜‎ ‎ ‎Write Tech Articles on my BlogPage [DopeSatan](https://www.dopesatan.ml) <br>
+➜‎ ‎ ‎Make Android Applications mostly by Java <br>
+➜‎ ‎ ‎Self teaching myself UI & UX designing <br>
+➜‎ ‎ ‎I'm also a Cyber Security Enthusiast <br>
+➜‎ ‎ ‎Project Engineer at [Wipro Limited](https://www.wipro.com)
 
 <br><a href="https://metrics.lecoq.io/insights/utsanjan">![Statistics](https://github-readme-stats.vercel.app/api?username=utsanjan&show_icons=true&layout=compact&theme=tokyonight)</a>
 
