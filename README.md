@@ -13,8 +13,8 @@
 ➜‎ ‎ ‎BTech 2022 grad in Computer Science and Engineering <br>
 ➜‎ ‎ ‎Love making Tech related tutorial videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
 ➜‎ ‎ ‎Write Tech articles on my Blog Page [DopeSatan](https://www.dopesatan.ml) <br>
-➜‎ ‎ ‎Make Android Applications mostly by Java <br>
-➜‎ ‎ ‎Self teaching myself UI & UX designing <br>
+➜‎ ‎ ‎Make Android Applications primarily by Java <br>
+➜‎ ‎ ‎Self-teaching myself UI & UX designing <br>
 ➜‎ ‎ ‎I'm also a Cyber Security Enthusiast <br>
 ➜‎ ‎ ‎Project Engineer at [Wipro Limited](https://www.wipro.com)
 
