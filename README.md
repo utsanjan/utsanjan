@@ -10,7 +10,7 @@
 [![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=plastic&url=https%3A%2F%2Fwww.dopesatan.ml%2F)](https://www.dopesatan.ml/) <br>
 
 **Here are some points about myself & the stuff I work with:** <br>
-➜‎ ‎ ‎BTech 2022 grad in Computer Science & Engineering <br>
+➜‎ ‎ ‎BTech 2022 grad in Computer Science and Engineering <br>
 ➜‎ ‎ ‎Love making Tech related tutorial videos on [YouTube](https://www.youtube.com/DopeSatan) <br>
 ➜‎ ‎ ‎Write Tech articles on my Blog Page [DopeSatan](https://www.dopesatan.ml) <br>
 ➜‎ ‎ ‎Make Android Applications mostly by Java <br>
