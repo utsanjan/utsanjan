@@ -22,7 +22,7 @@
 [![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=plastic&url=https%3A%2F%2Fwww.dopesatan.ml%2F)](https://www.dopesatan.ml/)
 
 <details>
-<summary>‎ ‎ᴄʟɪᴄᴋ ʜᴇʀᴇ ꜰᴏʀ ᴘʀᴏꜰɪʟᴇ sᴛᴀᴛɪsᴛɪᴄs <a href="#"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgZpLrPpVuNRRHjxCnJNMlCfv6DYViLvlal_jW_v089JNwnX49DBng5vcN1gMxuy-gpW9bjVLp002ZjcrucJIO6T7PQQ2y_WAAJMbeI8kIIlBATpA9RQUDtGAcGD49D-K2ZrdofjfhaPor2NdkQ0G7bXrcU6jvw8nOD7umPXAu6x5zX5gCilXPG6J/w200-h190/hand.gif" width="21"></a>jjjj</summary><br>
+<summary>‎ ‎ᴄʟɪᴄᴋ ʜᴇʀᴇ ꜰᴏʀ ᴘʀᴏꜰɪʟᴇ sᴛᴀᴛɪsᴛɪᴄs 👈🏻</summary><br>
 <div align="center">
 <table cellpadding="0">
   <tr style="padding: 0">
