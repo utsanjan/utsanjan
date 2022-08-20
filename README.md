@@ -8,7 +8,7 @@
 
 ## <a href="#"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgZpLrPpVuNRRHjxCnJNMlCfv6DYViLvlal_jW_v089JNwnX49DBng5vcN1gMxuy-gpW9bjVLp002ZjcrucJIO6T7PQQ2y_WAAJMbeI8kIIlBATpA9RQUDtGAcGD49D-K2ZrdofjfhaPor2NdkQ0G7bXrcU6jvw8nOD7umPXAu6x5zX5gCilXPG6J/w200-h190/hand.gif" width="21"></a> <a href="#"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0AazWRicbEGJhsUVvn5h2O7dgfgbCx8r8kdlPARaLm-iP4mDmwPOX6eVXSAjw9vepA6dlgUOBoycoe2tBTjp1bbrucEKE72RjNsUss65MkM_kQ_UXz50N63LrjphgZDUfjsmG35u0lDphkHw8LyKEILtDv2uc0kXRYTTn8YOfLAz7Rq7GRohsUof0/w200-h200/face.gif" width="23"/></a>‎ ‎‎ ‎ Hello World, I am Utsanjan‎ ‎ 🧑🏻‍💻<br>
 
-**《 Here are some bullet points about me and my work 》**<br>
+**《 Below are some points about me and my work 》**<br>
 •‎ ‎BTech 2022 grad in Computer Sc. and Engineering.<br>
 •‎ ‎Write Tech articles on my Blog Page [DopeSatan](https://www.dopesatan.ml).<br>
 •‎ ‎Love making Tech tutorial videos on [YouTube](https://www.youtube.com/DopeSatan).<br>
