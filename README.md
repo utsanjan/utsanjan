@@ -21,9 +21,9 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
 [![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=plastic&url=https%3A%2F%2Fwww.dopesatan.ml%2F)](https://www.dopesatan.ml/)
 
-<div align="center">
 <details>
 <summary>‎ ‎ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴇxᴘᴀɴᴅ</summary><br>
+<div align="center">
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
@@ -33,7 +33,9 @@
   </tr></table></a>
   
 ###### [‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼️](https://metrics.lecoq.io/utsanjan?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup,%20programming&languages.recent.categories=markup,%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia/Calcutta)
-</details>
+</details></div>
+
+<div align="center">
 
 ## 🌎 ‎ ‎Social Media Handles
 
