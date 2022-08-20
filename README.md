@@ -21,6 +21,9 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
 [![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=plastic&url=https%3A%2F%2Fwww.dopesatan.ml%2F)](https://www.dopesatan.ml/)
 
+<div align="center">
+<details>
+<summary>‎ ‎ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴇxᴘᴀɴᴅ</summary><br>
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
@@ -28,13 +31,11 @@
     <!-- GitHub Top Language Card -->
     <td valign="top"><a href="https://metrics.lecoq.io/insights/utsanjan"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsanjan&layout=compact&theme=tokyonight&langs_count=8"/></a></td>
   </tr></table></a>
-
-<div align="center">
+  
+###### [‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼️](https://metrics.lecoq.io/utsanjan?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup,%20programming&languages.recent.categories=markup,%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia/Calcutta)
+</details>
 
 ## 🌎 ‎ ‎Social Media Handles
-
-<details>
-<summary>‎ ‎ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴇxᴘᴀɴᴅ</summary><br>
 
 <a href="https://www.instagram.com/utsanjan/">![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://play.google.com/store/apps/dev?id=7093715858380847229">![](https://camo.githubusercontent.com/0970391e8ed2f4cf4b738e87494c203e0e13052a6b7fa0468588ff7984e9ea8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c655f506c61792d3431343134313f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d706c6179266c6f676f436f6c6f723d7768697465)</a>
@@ -44,12 +45,8 @@
 <a href="https://www.youtube.com/DopeSatan/">![](https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)</a>
 <a href="https://discord.com/invite/uavTPkr/">![](https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)</a> 
 <a href="https://utsanjan.bio.link/"><img width="auto" height="28" src="https://bit.ly/3bDDagz"/></a>
-</details>
 
 ## 🧠 ‎ ‎Technologies Learnt
-
-<details>
-<summary>‎ ‎ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴇxᴘᴀɴᴅ</summary><br>
 
 <a href="#">![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
@@ -61,7 +58,4 @@
 <a href="#">![](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="#">![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)</a>
-</details>
-
-###### [‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼️](https://metrics.lecoq.io/utsanjan?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup,%20programming&languages.recent.categories=markup,%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia/Calcutta)
 </div>
