@@ -47,10 +47,7 @@
 ## 🧠 ‎ ‎Technologies Learnt
 
 <details>
-<summary>‎ ‎ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴇxᴘᴀɴᴅ</summary>
-
-###### Note: Most used languages denote the usage in my repositories, not my skills in them.
-
+<summary>‎ ‎ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴇxᴘᴀɴᴅ</summary><br>
 <a href="#">![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)</a>
@@ -61,5 +58,4 @@
 <a href="#">![](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="#">![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)</a>
-
-<a href="https://lnkd.in/d8UjGAjc">![Most used languages](https://metrics.lecoq.io/utsanjan?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup,%20programming&languages.recent.categories=markup,%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia/Calcutta)</a></details>
+</details>
