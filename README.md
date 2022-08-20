@@ -23,7 +23,7 @@
 [![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=plastic&url=https%3A%2F%2Fwww.dopesatan.ml%2F)](https://www.dopesatan.ml/)
 </div>
 
-<div align="center">
+<div align="center"><br>
 
 ---
 <details>
