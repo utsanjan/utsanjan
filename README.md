@@ -15,11 +15,11 @@
 ➜‎ ‎ ‎I'm also a Cyber Security Enthusiast <br>
 ➜‎ ‎ ‎Project Engineer at [Wipro Limited](https://www.wipro.com) <br>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
-[![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=plastic&url=https%3A%2F%2Fwww.dopesatan.ml%2F)](https://www.dopesatan.ml/)
-<br>
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=plastic)](https://github.com/utsanjan#)‎ ‎
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=plastic)](https://www.youtube.com/dopesatan)‎ ‎
+<br>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
+[![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=plastic&url=https%3A%2F%2Fwww.dopesatan.ml%2F)](https://www.dopesatan.ml/)
 
 <table cellpadding="0">
   <tr style="padding: 0">
