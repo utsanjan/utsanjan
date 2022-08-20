@@ -24,6 +24,8 @@
 </div>
 
 <div align="center">
+<details>
+<summary>‎ ‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</summary>
 
 ## 🌎 ‎ ‎Social Media Handles
 
@@ -49,8 +51,6 @@
 <a href="#">![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="#">![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)</a>
 
-<details>
-<summary>‎ ‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊 ❯❯❯</summary><br>
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
