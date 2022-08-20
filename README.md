@@ -21,19 +21,7 @@
 <br>
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
 [![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=plastic&url=https%3A%2F%2Fwww.dopesatan.ml%2F)](https://www.dopesatan.ml/)
-
-<details>
-<summary>‎ ‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊 ❯❯❯</summary><br>
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><a href="https://metrics.lecoq.io/insights/utsanjan"><img height="200" src="https://github-readme-stats.vercel.app/api?username=utsanjan&show_icons=true&layout=compact&theme=tokyonight"/></a></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><a href="https://metrics.lecoq.io/insights/utsanjan"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsanjan&layout=compact&theme=tokyonight&langs_count=8"/></a></td>
-  </tr></table></a>
-  
-###### [‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼️](https://metrics.lecoq.io/utsanjan?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup,%20programming&languages.recent.categories=markup,%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia/Calcutta)
-</details></div>
+</div>
 
 <div align="center">
 
@@ -60,4 +48,17 @@
 <a href="#">![](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="#">![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)</a>
+
+<details>
+<summary>‎ ‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊 ❯❯❯</summary><br>
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><a href="https://metrics.lecoq.io/insights/utsanjan"><img height="200" src="https://github-readme-stats.vercel.app/api?username=utsanjan&show_icons=true&layout=compact&theme=tokyonight"/></a></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><a href="https://metrics.lecoq.io/insights/utsanjan"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsanjan&layout=compact&theme=tokyonight&langs_count=8"/></a></td>
+  </tr></table></a>
+  
+###### [‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼️](https://metrics.lecoq.io/utsanjan?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup,%20programming&languages.recent.categories=markup,%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia/Calcutta)
+</details>
 </div>
