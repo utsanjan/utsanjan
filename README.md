@@ -24,7 +24,7 @@
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=plastic)](https://github.com/utsanjan#)
 </div>
 
-<div align="center">
+<div align="center"><br>
 
 ---
 <details>
