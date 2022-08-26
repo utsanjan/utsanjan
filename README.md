@@ -59,7 +59,7 @@
     <!-- GitHub Stats Card -->  
     <td valign="top"><a href="https://metrics.lecoq.io/insights/utsanjan"><img height="200" src="https://github-readme-stats.vercel.app/api?username=utsanjan&show_icons=true&layout=compact&theme=chartreuse-dark"/></a></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><a href="https://shorturl.at/klz28"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsanjan&layout=compact&theme=chartreuse-dark&langs_count=8"/></a></td>
+    <td valign="top"><a href="https://cutt.ly/eXVNNui"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsanjan&layout=compact&theme=chartreuse-dark&langs_count=8"/></a></td>
   </tr></table></a>
   
 ###### ‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼
