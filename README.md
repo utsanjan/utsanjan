@@ -57,9 +57,9 @@
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><a href="https://metrics.lecoq.io/insights/utsanjan"><img height="200" src="https://github-readme-stats.vercel.app/api?username=utsanjan&show_icons=true&hide_border=true&bg_color=00000000&layout=compact&theme=gotham"/></a></td>
+    <td valign="top"><a href="https://metrics.lecoq.io/insights/utsanjan"><img height="200" src="https://github-readme-stats.vercel.app/api?username=utsanjan&show_icons=true&hide_border=true&bg_color=00000000&layout=compact&theme=city_lights"/></a></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><a href="https://cutt.ly/eXVNNui"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsanjan&layout=compact&hide_border=true&bg_color=00000000&theme=gotham&langs_count=8"/></a></td>
+    <td valign="top"><a href="https://cutt.ly/eXVNNui"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsanjan&layout=compact&hide_border=true&bg_color=00000000&theme=city_lights&langs_count=8"/></a></td>
   </tr></table></a>
   
 ###### ‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼
