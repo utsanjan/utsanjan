@@ -52,7 +52,7 @@
 <a href="#">![](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="#">![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)</a>
-
+<a href="https://skyline.github.com/utsanjan"><img width="100%" height="auto" src="https://github.com/utsanjan/utsanjan/blob/output/github-contribution-grid-snake.svg" height="175px"/></a>
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
@@ -60,7 +60,6 @@
     <!-- GitHub Top Language Card -->
     <td valign="top"><a href="https://cutt.ly/eXVNNui"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsanjan&layout=compact&hide_border=true&bg_color=00000000&theme=city_lights&langs_count=8"/></a></td>
   </tr></table></a>
-<a href="https://skyline.github.com/utsanjan"><img width="100%" height="auto" src="https://github.com/utsanjan/utsanjan/blob/output/github-contribution-grid-snake.svg" height="175px"/></a>
   
 ###### ‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼
 </details>
