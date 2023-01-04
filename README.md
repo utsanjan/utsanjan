@@ -1,4 +1,4 @@
-<a href="https://skyline.github.com/utsanjan"><img width="100%" height="auto" src="https://github.com/utsanjan/utsanjan/blob/output/github-contribution-grid-snake.svg" height="175px"/></a>
+<a href="https://skyline.github.com/utsanjan"><img width="100%" height="auto" src="https://bit.ly/3BRyuhT" height="175px"/></a>
 
 <a href="https://app.daily.dev/utsanjan"><img align="left" src="https://api.daily.dev/devcards/43ade3042e3244fa9ec18bdabdc2a236.png?r=ulb" width="auto" alt="Utsanjan Maity's Dev Card" height="290"/></a>
 <a href="https://openinapp.co/spotify/ea6de"><img align="right" alt="Now playing on Spotify" height="290px" width=auto src="https://spotify-github-profile.vercel.app/api/view?uid=ropqd325w883lo9x05iiqw4ej&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/></a>
@@ -58,6 +58,7 @@
     <!-- GitHub Top Language Card -->
     <td valign="top"><a href="https://cutt.ly/eXVNNui"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsanjan&layout=compact&hide_border=true&bg_color=00000000&theme=city_lights&langs_count=8"/></a></td>
   </tr></table></a>
+<a href="https://skyline.github.com/utsanjan"><img width="100%" height="auto" src="https://github.com/utsanjan/utsanjan/blob/output/github-contribution-grid-snake.svg" height="175px"/></a>
   
 ###### ‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼
 </details>
