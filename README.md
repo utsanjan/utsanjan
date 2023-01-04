@@ -10,7 +10,7 @@
 
 #### 𝙃𝙀𝙍𝙀 𝘼𝙍𝙀 𝙎𝙊𝙈𝙀 𝙋𝙊𝙄𝙉𝙏𝙎 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 𝘼𝙉𝘿 𝙈𝙔 𝙒𝙊𝙍𝙆<br>
 •‎ ‎BTech 2022 grad in Computer Sc. & Engineering.<br>
-•‎ ‎Write Tech articles on my Blog Page [DopeSatan](https://www.dopesatan.ml).<br>
+•‎ ‎Write Tech articles on my BlogPage [DopeSatan](https://www.dopesatan.ml).<br>
 •‎ ‎Love making Tech tutorial videos on [YouTube](https://www.youtube.com/DopeSatan).<br>
 •‎ ‎Self-teaching myself UI and UX designing.<br>
 •‎ ‎Build Android Apps primarily with Java.<br>
