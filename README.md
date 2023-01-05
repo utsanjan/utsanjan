@@ -25,6 +25,7 @@
 
 <div align="center">
 <a href="https://skyline.github.com/utsanjan"><img width="100%" height="auto" src="https://github.com/utsanjan/utsanjan/blob/output/github-contribution-grid-snake.svg" height="175px"/></a>
+ <br>
 <details>
 <summary><h3>‎ ‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</h3></summary>
 
