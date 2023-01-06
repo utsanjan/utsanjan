@@ -15,7 +15,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Generate the user stats image
-      uses: cicirello/user-statistician@v1
+    - name: user-statistician
+      uses: cicirello/user-statistician@v1.20.2
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
