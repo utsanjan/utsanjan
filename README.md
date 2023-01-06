@@ -22,7 +22,7 @@
 [![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=plastic&url=https%3A%2F%2Fwww.dopesatan.ml%2F)](https://www.dopesatan.ml/)‎ ‎
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=plastic)](https://github.com/utsanjan#)
 </div>
-<div align="center">
+<div align="center"><br>
 
 ---
 
