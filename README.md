@@ -1,4 +1,4 @@
-<a href="https://metrics.lecoq.io/insights/utsanjan"><img width="100%" height="auto" src="https://bit.ly/3BRyuhT" height="175px"/></a>
+<a href="https://skyline.github.com/utsanjan"><img width="100%" height="auto" src="https://bit.ly/3BRyuhT" height="175px"/></a>
 
 ---
 
@@ -22,10 +22,10 @@
 [![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=plastic&url=https%3A%2F%2Fwww.dopesatan.ml%2F)](https://www.dopesatan.ml/)‎ ‎
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=plastic)](https://github.com/utsanjan#)
 </div>
-
 <div align="center">
-<a href="https://skyline.github.com/utsanjan"><img width="100%" height="auto" src="https://github.com/utsanjan/utsanjan/blob/output/github-contribution-grid-snake.svg" height="175px"/></a>
- <br>
+
+---
+
 <details>
 <summary><h3>‎ ‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</h3></summary>
 
@@ -52,13 +52,8 @@
 <a href="#">![](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="#">![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)</a>
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><a href="https://bit.ly/3VL02vE"><img height="200" src="https://github-readme-stats.vercel.app/api?username=utsanjan&show_icons=true&hide_border=true&bg_color=00000000&layout=compact&theme=city_lights"/></a></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><a href="https://bit.ly/3WHpenW"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsanjan&layout=compact&hide_border=true&bg_color=00000000&theme=city_lights&langs_count=8"/></a></td>
-  </tr></table></a>
+
+<a href="https://metrics.lecoq.io/insights/utsanjan"><img width="100%" height="auto" src="https://github.com/utsanjan/utsanjan/blob/main/images/userstats.svg" height="175px"/></a>
   
 ###### ‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼
 </details>
