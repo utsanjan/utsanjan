@@ -17,5 +17,10 @@ jobs:
 
     - name: user-statistician
       uses: cicirello/user-statistician@v1.20.2
+      with:
+        colors: dark
+        max-languages: 100
+        include-title: false
+        animated-language-chart: true
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
