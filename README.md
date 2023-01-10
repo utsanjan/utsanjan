@@ -53,7 +53,7 @@
 <a href="#">![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="#">![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)</a>
 
-<a href="https://metrics.lecoq.io/insights/utsanjan"><img width="60%" height="auto" src="https://github.com/utsanjan/utsanjan/blob/main/images/userstats.svg" height="175px"/></a>
+<a href="https://metrics.lecoq.io/insights/utsanjan"><img width="60%" height="auto" src="https://utsanjan.netlify.app/images/userstats.svg" height="175px"/></a>
   
 ###### ‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼
 </details>
