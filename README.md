@@ -2,8 +2,8 @@
 
 ---
 
-<a href="https://app.daily.dev/utsanjan"><img align="left" src="https://api.daily.dev/devcards/43ade3042e3244fa9ec18bdabdc2a236.png?r=ulb" width="auto" alt="Utsanjan Maity's Dev Card" height="290px"/></a>
-<a href="https://openinapp.co/spotify/ea6de"><img align="right" alt="Now playing on Spotify" height="293px" width=auto src="https://spotify-github-profile.vercel.app/api/view?uid=ropqd325w883lo9x05iiqw4ej&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/></a>
+<a href="https://app.daily.dev/utsanjan"><img align="left" src="https://api.daily.dev/devcards/43ade3042e3244fa9ec18bdabdc2a236.png?r=ulb" width="auto" alt="Utsanjan Maity's Dev Card" height="287px"/></a>
+<a href="https://openinapp.co/spotify/ea6de"><img align="right" alt="Now playing on Spotify" height="290px" width=auto src="https://spotify-github-profile.vercel.app/api/view?uid=ropqd325w883lo9x05iiqw4ej&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/></a>
 <div align="center">
   
 ### <a href="#"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgZpLrPpVuNRRHjxCnJNMlCfv6DYViLvlal_jW_v089JNwnX49DBng5vcN1gMxuy-gpW9bjVLp002ZjcrucJIO6T7PQQ2y_WAAJMbeI8kIIlBATpA9RQUDtGAcGD49D-K2ZrdofjfhaPor2NdkQ0G7bXrcU6jvw8nOD7umPXAu6x5zX5gCilXPG6J/w200-h190/hand.gif" width="16"></a> <a href="#"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0AazWRicbEGJhsUVvn5h2O7dgfgbCx8r8kdlPARaLm-iP4mDmwPOX6eVXSAjw9vepA6dlgUOBoycoe2tBTjp1bbrucEKE72RjNsUss65MkM_kQ_UXz50N63LrjphgZDUfjsmG35u0lDphkHw8LyKEILtDv2uc0kXRYTTn8YOfLAz7Rq7GRohsUof0/w200-h200/face.gif" width="18"/></a>‎ ‎‎ ‎HELLO WORLD, I'M UTSANJAN‎ ‎ 🧑🏻‍💻✨
@@ -14,7 +14,6 @@
 •‎ ‎Self-teaching myself UI and UX designing<br>
 •‎ ‎Build Android Apps primarily with Java<br>
 •‎ ‎I'm also a Cyber Security Enthusiast<br>
-•‎ ‎Project Engineer at [Wipro Limited](https://www.wipro.com)<br>
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=flat)](https://www.youtube.com/dopesatan)‎ ‎
