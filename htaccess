@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteCond %{HTTPS} off
+
+RewriteCond %{HTTP_HOST} ^utsanjan.ml$
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{HTTP_HOST} ^www.utsanjan.ml$ [NC]
+RewriteRule (.*) https://utsanjan.ml/$1 [R=301,L]
