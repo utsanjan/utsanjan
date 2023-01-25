@@ -3,5 +3,4 @@
 <img alt="Screenshots" title="Screenshots"
 src="https://www.utsanjan.ml/assets/img/logo.png"/>
 </a><br><br>My Portfolio Web-Page resources.<br>
-You can visit my Portfolio to know <br>
-more about me: www.utsanjan.ml</h5>
+Know more, visit www.utsanjan.ml</h5>
