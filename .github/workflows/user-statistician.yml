@@ -1,0 +1,26 @@
+name: user-statistician
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  push:
+    branches: [ main ]
+    paths: [ '.github/workflows/user-statistician.yml' ]
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: user-statistician
+      uses: cicirello/user-statistician@v1.20.2
+      with:
+        colors: dark
+        max-languages: 100
+        include-title: false
+        animated-language-chart: true
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
