@@ -1,7 +1,7 @@
 <a href="https://skyline.github.com/utsanjan"><img width="100%" height="auto" src="https://bit.ly/3BRyuhT" height="175px"/></a>
 
 <div align=center>
-   <a href="https://github.com/utsanjan">
+   <a href="#">
    <img height=50 width=100% src="https://shorturl.at/qUB5S">
    </a>
 </div>
@@ -28,7 +28,7 @@
 <div align="center"><br>
 
 <div align=center>
-   <a href="https://github.com/utsanjan">
+   <a href="#">
    <img height=50 width=100% src="https://shorturl.at/qUB5S">
    </a>
 </div>
