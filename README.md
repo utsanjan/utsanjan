@@ -2,7 +2,7 @@
 
 <div align=center>
    <a href="#">
-   <img height=50 width=100% src="https://tinyurl.com/5m5jyarf">
+   <img height=50 width=100% src="https://tinyurl.com/ycx528zs">
    </a>
 </div>
 
@@ -29,7 +29,7 @@
 
 <div align=center>
    <a href="#">
-   <img height=50 width=100% src="https://tinyurl.com/5m5jyarf">
+   <img height=50 width=100% src="https://tinyurl.com/ycx528zs">
    </a>
 </div>
 
