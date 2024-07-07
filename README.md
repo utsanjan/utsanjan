@@ -2,9 +2,10 @@
 
 <div align=center>
    <a href="#">
-   <img height=50 width=100% src="https://tinyurl.com/ycx528zs">
+   <img height=1 width=100% src="https://tinyurl.com/53ukbntj">
    </a>
 </div>
+<br>
 
 <a href="https://g.dev/utsanjan"><img align="left" src="https://api.daily.dev/devcards/43ade3042e3244fa9ec18bdabdc2a236.png?r=ulb" width="auto" alt="Utsanjan Maity's Dev Card" height="287px"/></a>
 <a href="https://spotify.oia.bio/utsanjan"><img align="right" alt="Now playing on Spotify" height="290px" width=auto src="https://spotify-github-profile.kittinanx.com/api/view?uid=ropqd325w883lo9x05iiqw4ej&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/></a>
@@ -29,9 +30,10 @@
 
 <div align=center>
    <a href="#">
-   <img height=50 width=100% src="https://tinyurl.com/ycx528zs">
+   <img height=1 width=100% src="https://tinyurl.com/53ukbntj">
    </a>
 </div>
+<br>
 
 <details>
 <summary> ‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</summary>
