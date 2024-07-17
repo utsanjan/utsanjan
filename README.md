@@ -7,8 +7,9 @@
 </div>
 <br>
 
-<a href="https://g.dev/utsanjan"><img align="left" src="https://api.daily.dev/devcards/43ade3042e3244fa9ec18bdabdc2a236.png?r=ulb" width="auto" alt="Utsanjan Maity's Dev Card" height="287px"/></a> <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001706.7e29f1c59c00409cb330a14d88586bcb.0251"/></a>
-<!--- <a href="https://spotify.oia.bio/utsanjan"><img align="right" alt="Now playing on Spotify" height="290px" width=auto src="https://spotify-github-profile.kittinanx.com/api/view?uid=ropqd325w883lo9x05iiqw4ej&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/></a> -->
+<a href="https://g.dev/utsanjan"><img align="left" src="https://api.daily.dev/devcards/43ade3042e3244fa9ec18bdabdc2a236.png?r=ulb" width="auto" alt="Utsanjan Maity's Dev Card" height="287px"/></a>
+<a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/TejeeoYh"/></a>
+<!--- <a href="https://spotify.oia.bio/utsanjan"><img align="right" alt="Now playing on Spotify" height="290px" width=auto src="https://cutt.ly/RejeeH4d"/></a> -->
 
 <div align="center">
   
