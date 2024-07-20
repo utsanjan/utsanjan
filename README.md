@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<a href="https://g.dev/utsanjan"><img align="left" src="https://api.daily.dev/devcards/v2/qyMwj5ItHBkDWTFed5SgM.png?type=default&r=bjg" width="auto" alt="Utsanjan Maity's Dev Card" height="287px"/></a>
+<a href="https://g.dev/utsanjan"><img align="left" src="https://cutt.ly/rejC5iQw" width="auto" alt="Utsanjan's Dev Card" height="290px"/></a>
 <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a>
 <!--- <a href="https://spotify.oia.bio/utsanjan"><img align="right" alt="Now playing on Spotify" height="290px" width=auto src="https://cutt.ly/RejeeH4d"/></a> -->
 
