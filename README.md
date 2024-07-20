@@ -7,8 +7,8 @@
 </div>
 <br>
 
-<a href="https://g.dev/utsanjan"><img align="left" src="https://api.daily.dev/devcards/43ade3042e3244fa9ec18bdabdc2a236.png?r=ulb" width="auto" alt="Utsanjan Maity's Dev Card" height="287px"/></a>
-<a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/TejeeoYh"/></a>
+<a href="https://g.dev/utsanjan"><img align="left" src="https://api.daily.dev/devcards/v2/qyMwj5ItHBkDWTFed5SgM.png?type=default&r=bjg" width="auto" alt="Utsanjan Maity's Dev Card" height="287px"/></a>
+<a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a>
 <!--- <a href="https://spotify.oia.bio/utsanjan"><img align="right" alt="Now playing on Spotify" height="290px" width=auto src="https://cutt.ly/RejeeH4d"/></a> -->
 
 <div align="center">
