@@ -4813,18 +4813,6 @@ figcaption {
   color: #bebdd4;
 }
 
-.social-media-icon.facebook {
-  font-size: 22px;
-}
-
-.social-media-icon.linkedin {
-  font-size: 21px;
-}
-
-.social-media-icon.youtube {
-  font-size: 19px;
-}
-
 .list-item-social-media {
   margin-left: 36px;
   -webkit-transition: -webkit-transform 350ms ease;
