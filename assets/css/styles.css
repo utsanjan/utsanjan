@@ -6184,8 +6184,6 @@ figcaption {
     --white-color: #FFF;
 }
 
-/*Fuente y tipografia*/
-
 :root {
     --body-font: 'Poppins', sans-serif;
     --h1-font-size: 2.5rem;
@@ -6203,8 +6201,6 @@ figcaption {
     }
 }
 
-/*z index*/
-
 :root {
     --z-back: -10;
     --z-normal: 1;
@@ -6212,8 +6208,6 @@ figcaption {
     --z-fixed: 100;
     --z-modal: 1000;
 }
-
-/*----- BASE -----*/
 
 *,
 ::before,
@@ -6252,8 +6246,6 @@ img {
     height: auto;
 }
 
-/*----- LAYOUT -----*/
-
 .bd-grid {
     max-width: 1200px;
     margin-left: 1rem;
@@ -6268,10 +6260,6 @@ img {
     z-index: 200;
     background-color: transparent;
 }
-
-/*----- PAGES -----*/
-
-/*Nav*/
 
 .navbar {
     width: 95%;
@@ -6343,13 +6331,9 @@ img {
     cursor: pointer;
 }
 
-/*Aparecer menu*/
-
 .show {
     top: 3rem;
 }
-
-/*Home*/
 
 .l-main {
     height: calc(100vh - 3rem);
@@ -6420,7 +6404,31 @@ img {
     color: var(--first-color);
 }
 
-/*----- MEDIA QUERIES -----*/
+#preloader {
+  top:0;
+  left:0; 
+  right:0; 
+  bottom:0; 
+  width:100%;
+  height:100%;
+  position:absolute;
+  background:transparent; 
+  background-repeat:no-repeat; 
+  z-index:9999999;
+}
+
+#loader { 
+  left:50%;  
+  top:50%; 
+  width:100px;  
+  height:5px; 
+  border-radius:50px; 
+  position:absolute;  
+  margin-left:-50px;
+  background-repeat:no-repeat; 
+  background-image: url("https://gitlab.com/utsanjan/Portfolio/-/raw/main/assets/img/load.gif"); 
+  background-position:center;
+}
 
 @media screen and (min-width: 768px) {
     body {
@@ -6484,8 +6492,6 @@ img {
     }
 }
 
-/*ANIMATE*/
-
 .overlay {
     position: absolute;
     top: 0;
@@ -6509,29 +6515,3 @@ img {
     background-color: var(--first-color);
     left: 66.6%;
 }
-
-#preloader {
-  top:0;
-  left:0; 
-  right:0; 
-  bottom:0; 
-  width:100%;
-  height:100%;
-  position:absolute;
-  background:transparent; 
-  background-repeat:no-repeat; 
-  z-index:9999999;
-}
-
-  #loader { 
-    left:50%;  
-    top:50%; 
-    width:100px;  
-    height:5px; 
-    border-radius:50px; 
-    position:absolute;  
-    margin-left:-50px;
-    background-repeat:no-repeat; 
-    background-image: url("https://gitlab.com/utsanjan/Portfolio/-/raw/main/assets/img/load.gif"); 
-    background-position:center;
-  }
