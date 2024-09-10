@@ -15,12 +15,13 @@
   
 ### <a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a>‎ ‎‎ ‎HELLO WORLD, I'M UTSANJAN‎ ‎ 🧑🏻‍💻✨
 ***HERE ARE SOME POINTS ABOUT ME & MY WORK***<br>
+•‎ ‎Pursuing MBA in Biz Analytics along with my work<br>
 •‎ ‎BTech 2022 grad in Computer Sc. & Engineering<br>
-•‎ ‎Write Tech articles on my BlogPage [DopeSatan](https://www.dopesatan.in)<br>
-•‎ ‎Love making Tech tutorial videos on [YouTube](https://www.youtube.com/DopeSatan)<br>
+•‎ ‎Enjoy keeping up my tech blog page [DopeSatan](https://www.dopesatan.in)<br>
+•‎ ‎Love making tech tutorial videos on [YouTube](https://www.youtube.com/DopeSatan)<br>
 •‎ ‎Self-teaching myself UI and UX designing<br>
 •‎ ‎Build Android Apps primarily with Java<br>
-•‎ ‎I'm also a Cyber Security Enthusiast<br>
+•‎ ‎Also passionate about cybersecurity<br>
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=flat)](https://www.youtube.com/dopesatan)‎ ‎
