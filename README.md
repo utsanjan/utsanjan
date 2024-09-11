@@ -31,7 +31,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=flat)](https://www.youtube.com/dopesatan)‎ ‎
 </div>
 
-<a href="https://spotify.oia.bio/utsanjan"><img align="left" alt="Now playing on Spotify" width="600" width=auto src="https://cutt.ly/ieRal6co"/></a>
+<a href="https://spotify.oia.bio/utsanjan"><img align="left" alt="Now playing on Spotify" width="600" width=auto src="https://cutt.ly/9eRdxlsH"/></a>
 <!--- <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a> -->
 </td>
 </tr>
@@ -46,7 +46,7 @@
 <br>
 
 <details>
-<summary>&emsp; ‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</summary>
+<summary> ‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</summary>
 <br>
    
 ## 🌎 ‎ ‎Social Media Handles
