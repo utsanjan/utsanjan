@@ -1,8 +1,7 @@
 <a href="https://skyline.github.com/utsanjan"><img width="100%" height="auto" src="https://bit.ly/4dbRu9Z" height="175px"/></a>
 <div align=center><a href="#"><img height=1 width=9000 src="https://shorturl.at/A6CaJ"></a></div>
 <br>
-<table>
-<tr>
+<table><tr>
 <td width="30%" valign="center">
 <a href="https://g.dev/utsanjan"><img align="left" src="https://cutt.ly/JeRdYdlo" width="500" alt="Utsanjan's Dev Card" height="auto"/></a>
 <div align="left">
@@ -27,11 +26,8 @@
 </div><!--- <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a> -->
 <a href="https://spotify.oia.bio/utsanjan"><img align="left" alt="Now playing on Spotify" width="600" width=auto src="https://cutt.ly/9eRdxlsH"/></a>
 </td>
-</tr>
-</table>
-<div align="center">
-<div align=center><a href="#"><img height=1 width=9000 src="https://shorturl.at/A6CaJ"></a></div>
-<br>
+</tr></table><div align="center">
+<div align=center><a href="#"><img height=1 width=9000 src="https://shorturl.at/A6CaJ"></a></div><br>
 
 <details>
 <summary>&ensp;‎<h2>𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</h2></summary>
