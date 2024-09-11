@@ -2,44 +2,45 @@
 
 <div align=center>
    <a href="#">
-   <img height=1 width=100% src="https://shorturl.at/A6CaJ">
+   <img height=1 width=9000 src="https://shorturl.at/A6CaJ">
    </a>
 </div>
 <br>
 
-<a href="https://g.dev/utsanjan"><img align="left" src="https://cutt.ly/rejC5iQw" width="auto" alt="Utsanjan's Dev Card" height="290px"/></a>
-<a href="https://spotify.oia.bio/utsanjan"><img align="right" alt="Now playing on Spotify" height="290px" width=auto src="https://cutt.ly/TevCM0Ie"/></a>
+<a href="https://g.dev/utsanjan"><img align="left" src="https://cutt.ly/0eRafAm9" width="500" alt="Utsanjan's Dev Card" height="auto"/></a>
 <!--- <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a> -->
 
-<div align="center">
+<div align="left">
   
 ### <a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a>‎ ‎‎ ‎HELLO WORLD, I'M UTSANJAN‎ ‎ 🧑🏻‍💻✨
-***HERE ARE SOME POINTS ABOUT ME & MY WORK***<br>
-•‎ ‎Pursuing MBA in Biz Analytics along with my work<br>
-•‎ ‎BTech 2022 grad in Computer Sc. & Engineering<br>
-•‎ ‎Enjoy keeping up my tech blog page [DopeSatan](https://www.dopesatan.in)<br>
-•‎ ‎Love making tech tutorial videos on [YouTube](https://www.youtube.com/DopeSatan)<br>
-•‎ ‎Self-teaching myself UI and UX designing<br>
-•‎ ‎Build Android Apps primarily with Java<br>
-•‎ ‎Also passionate about cybersecurity<br>
+&emsp;***HERE ARE SOME POINTS ABOUT ME & MY WORK***<br>
+&emsp;•‎ ‎Pursuing MBA in Biz Analytics along with my work<br>
+&emsp;•‎ ‎BTech 2022 grad in Computer Sc. & Engineering<br>
+&emsp;•‎ ‎Enjoy keeping up my tech blog page [DopeSatan](https://www.dopesatan.in)<br>
+&emsp;•‎ ‎Love making tech tutorial videos on [YouTube](https://www.youtube.com/DopeSatan)<br>
+&emsp;•‎ ‎Self-teaching myself UI and UX designing<br>
+&emsp;•‎ ‎Build Android Apps primarily with Java<br>
+&emsp;•‎ ‎Also passionate about cybersecurity<br>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=flat)](https://www.youtube.com/dopesatan)‎ ‎
+<a href="https://spotify.oia.bio/utsanjan"><img align="right" alt="Now playing on Spotify" width="290px" width=auto src="https://cutt.ly/ieRal6co"/></a>
+
+&emsp;&emsp;[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
+[![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=flat)](https://github.com/utsanjan#) ‎
 <br>
-[![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=flat&url=https%3A%2F%2Fwww.dopesatan.in%2F)](https://www.dopesatan.in/)‎ ‎
-[![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=flat)](https://github.com/utsanjan#)
+&emsp;&emsp;[![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=flat&url=https%3A%2F%2Fwww.dopesatan.in%2F)](https://www.dopesatan.in/)‎ ‎
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=flat)](https://www.youtube.com/dopesatan)‎ ‎
 </div>
-<div align="center"><br>
+<div align="left"><br>
 
 <div align=center>
    <a href="#">
-   <img height=1 width=100% src="https://shorturl.at/A6CaJ">
+   <img height=1 width=9000 src="https://shorturl.at/A6CaJ">
    </a>
 </div>
 <br>
 
 <details>
-<summary> ‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</summary>
+<summary>&emsp; ‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</summary>
 
 ## 🌎 ‎ ‎Social Media Handles
 
@@ -65,8 +66,8 @@
 <a href="#">![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="#">![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)</a>
 
-<a href="https://metrics.lecoq.io/insights/utsanjan"><img width="60%" height="auto" src="https://utsanjan.github.io/utsanjan/images/userstats.svg" height="175px"/></a>
+<a href="https://metrics.lecoq.io/insights/utsanjan"><img width="450" height="auto" src="https://utsanjan.github.io/utsanjan/images/userstats.svg" height="175px"/></a>
   
-###### ‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼
+###### ‼️ Note: Most used languages denote the usage in repositories, not skills ‼
 </details>
 </div>
