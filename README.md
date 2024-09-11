@@ -7,8 +7,8 @@
 <div align="left">
 </td>
 <td width="50%" valign="top">
-  
-### <a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a>‎ ‎‎ ‎HELLO WORLD, I'M UTSANJAN‎ ‎ 🧑🏻‍💻✨
+
+### <a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a>‎ ‎‎<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&duration=1000&pause=2000&color=F0F6FB&vCenter=true&width=800&height=38&lines=%E2%80%8E+%E2%80%8E%F0%9D%97%9B%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A2+%F0%9D%97%AA%F0%9D%97%A2%F0%9D%97%A5%F0%9D%97%9F%F0%9D%97%97%2C+%F0%9D%97%9C'%F0%9D%97%A0+%F0%9D%97%A8%F0%9D%97%A7%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%9D%F0%9D%97%94%F0%9D%97%A1+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%9C%A8;%E2%80%8E+%E2%80%8E%F0%9D%97%9B%F0%9D%97%A2%F0%9D%97%A3%F0%9D%97%98+%F0%9D%97%AC%F0%9D%97%A2%F0%9D%97%A8+%F0%9D%97%9B%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%98+%F0%9D%97%94+%F0%9D%97%9A%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%94%F0%9D%97%A7+%F0%9D%97%97%F0%9D%97%94%F0%9D%97%AC+%F0%9F%92%90%E2%9C%A8" width="370"></a>
 &emsp; ***HERE ARE SOME POINTS ABOUT ME & MY WORK***<br>
 &emsp;•‎ ‎Pursuing MBA in Biz Analytics along with my work<br>
 &emsp;•‎ ‎BTech 2022 grad in Computer Sc. & Engineering<br>
