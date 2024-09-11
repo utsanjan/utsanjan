@@ -36,8 +36,7 @@
 </td>
 </tr>
 </table>
-<div align="center"><br>
-
+<div align="center">
 <div align=center>
    <a href="#">
    <img height=1 width=9000 src="https://shorturl.at/A6CaJ">
