@@ -12,7 +12,7 @@
 <a href="https://g.dev/utsanjan"><img align="left" src="https://cutt.ly/rejC5iQw" width="500" alt="Utsanjan's Dev Card" height="auto"/></a>
 <div align="left">
 </td>
-<td width="50%" valign="center">
+<td width="50%" valign="top">
 
 ### <a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a>‎ ‎‎ ‎HELLO WORLD, I'M UTSANJAN‎ ‎ 🧑🏻‍💻✨
 &emsp;***HERE ARE SOME POINTS ABOUT ME & MY WORK***<br>
