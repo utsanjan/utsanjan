@@ -8,7 +8,8 @@
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="30%" valign="top">
+   
 <a href="https://g.dev/utsanjan"><img align="left" src="https://cutt.ly/rejC5iQw" width="500" alt="Utsanjan's Dev Card" height="auto"/></a>
 <div align="left">
 </td>
