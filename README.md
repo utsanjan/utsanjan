@@ -18,7 +18,7 @@
 &emsp;***HERE ARE SOME POINTS ABOUT ME & MY WORK***<br>
 &emsp;•‎ ‎Pursuing MBA in Biz Analytics along with my work<br>
 &emsp;•‎ ‎BTech 2022 grad in Computer Sc. & Engineering<br>
-&emsp;•‎ ‎Enjoy keeping up my tech blog page [DopeSatan](https://www.dopesatan.in)<br>
+&emsp;•‎ ‎Enjoy keeping up my techblog page [DopeSatan](https://www.dopesatan.in)<br>
 &emsp;•‎ ‎Love making tech tutorial videos on [YouTube](https://www.youtube.com/DopeSatan)<br>
 &emsp;•‎ ‎Self-teaching myself UI and UX designing<br>
 &emsp;•‎ ‎Build Android Apps primarily with Java<br>
