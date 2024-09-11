@@ -24,15 +24,15 @@
 &emsp;•‎ ‎Build Android Apps primarily with Java<br>
 &emsp;•‎ ‎Also passionate about cybersecurity<br>
 
-<a href="https://spotify.oia.bio/utsanjan"><img align="right" alt="Now playing on Spotify" width="290px" width=auto src="https://cutt.ly/ieRal6co"/></a>
-<!--- <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a> -->
-
 &emsp;&emsp;[![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=flat&url=https%3A%2F%2Fwww.dopesatan.in%2F)](https://www.dopesatan.in/)‎ ‎
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=flat)](https://github.com/utsanjan#) ‎
 <br>
 &emsp;&emsp;[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=flat)](https://www.youtube.com/dopesatan)‎ ‎
 </div>
+
+<a href="https://spotify.oia.bio/utsanjan"><img align="left" alt="Now playing on Spotify" width="600" width=auto src="https://cutt.ly/ieRal6co"/></a>
+<!--- <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a> -->
 </td>
 </tr>
 </table>
