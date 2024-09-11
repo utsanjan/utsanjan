@@ -2,7 +2,7 @@
 <div align=center><a href="#"><img height=1 width=9000 src="https://shorturl.at/A6CaJ"></a></div>
 <br>
 <table><tr>
-<td width="32%" valign="center">
+<td width="31%" valign="center">
 <a href="https://g.dev/utsanjan"><img align="left" src="https://cutt.ly/JeRdYdlo" width="500" alt="Utsanjan's Dev Card" height="auto"/></a>
 <div align="left">
 </td>
