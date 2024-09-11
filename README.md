@@ -24,9 +24,9 @@
 &emsp;[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=flat)](https://www.youtube.com/dopesatan)‎ ‎
 </div>
-<a href="https://spotify.oia.bio/utsanjan"><img align="right" src="https://cutt.ly/zeRkACU5" width="60"/></a>
+&emsp;&ensp;<a href="https://spotify.oia.bio/utsanjan"><img src="https://cutt.ly/zeRkACU5" width="80"/>
+<img align="left" alt="Now playing on Spotify" width="600" src="https://cutt.ly/9eRdxlsH"/></a>
 <!--- <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a> -->
-<a href="https://spotify.oia.bio/utsanjan"><img align="left" alt="Now playing on Spotify" width="600" src="https://cutt.ly/9eRdxlsH"/></a>
 </td>
 </tr></table><div align="center">
 <div align=center><a href="#"><img height=1 width=9000 src="https://shorturl.at/A6CaJ"></a></div><br>
