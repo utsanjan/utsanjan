@@ -8,7 +8,7 @@
 </td>
 <td width="50%" valign="top">
 
-### <a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a>‎ ‎‎ ‎HELLO WORLD, I'M UTSANJAN‎ ‎ 🧑🏻‍💻✨<br>
+### <a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a>‎ ‎‎ ‎HELLO WORLD, I'M UTSANJAN‎ ‎ 🧑🏻‍💻✨
 &emsp; <a href="#"><img width=350 src="https://cutt.ly/ieRkoGb9"/></a><br>
 &emsp;•‎ ‎Pursuing MBA in Biz Analytics along with my work<br>
 &emsp;•‎ ‎BTech 2022 grad in Computer Sc. & Engineering<br>
