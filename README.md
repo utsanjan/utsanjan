@@ -8,7 +8,7 @@
 </td>
 <td width="50%" valign="top">
 
-### <a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a><a href="#"><img src="https://cutt.ly/TeRljYBk" width="300"></a>
+### &ensp;<a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a><a href="#"><img src="https://cutt.ly/TeRljYBk" width="300"></a>
 &emsp; ***HERE ARE SOME POINTS ABOUT ME & MY WORK***<br>
 &emsp;•‎ ‎Pursuing MBA in Biz Analytics along with my work<br>
 &emsp;•‎ ‎BTech 2022 grad in Computer Sc. & Engineering<br>
