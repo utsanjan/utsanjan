@@ -74,6 +74,6 @@
 
 <a href="https://metrics.lecoq.io/insights/utsanjan"><img width="450" height="auto" src="https://utsanjan.github.io/utsanjan/images/userstats.svg" height="175px"/></a>
   
-###### ‼️ Note: Most used languages denote the usage in repositories, not skills ‼
+###### ‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼️
 </details>
 </div>
