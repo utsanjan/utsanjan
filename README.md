@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td width="30%" valign="center">
-<a href="https://g.dev/utsanjan"><img align="left" src="https://cutt.ly/rejC5iQw" width="500" alt="Utsanjan's Dev Card" height="auto"/></a>
+<a href="https://g.dev/utsanjan"><img align="left" src="https://cutt.ly/JeRdYdlo" width="500" alt="Utsanjan's Dev Card" height="auto"/></a>
 <div align="left">
 </td>
 <td width="50%" valign="top">
