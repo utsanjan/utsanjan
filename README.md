@@ -1,12 +1,3 @@
-<a href="https://skyline.github.com/utsanjan"><img width="100%" height="auto" src="https://bit.ly/4dbRu9Z" height="175px"/></a>
-
-<div align=center>
-   <a href="#">
-   <img height=1 width=9000 src="https://shorturl.at/A6CaJ">
-   </a>
-</div>
-<br>
-
 <a href="https://g.dev/utsanjan"><img align="left" src="https://cutt.ly/0eRafAm9" width="500" alt="Utsanjan's Dev Card" height="auto"/></a>
 <!--- <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a> -->
 
@@ -24,10 +15,10 @@
 
 <a href="https://spotify.oia.bio/utsanjan"><img align="right" alt="Now playing on Spotify" width="290px" width=auto src="https://cutt.ly/ieRal6co"/></a>
 
-&emsp;&emsp;[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
+&emsp;&emsp;[![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=flat&url=https%3A%2F%2Fwww.dopesatan.in%2F)](https://www.dopesatan.in/)‎ ‎
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=flat)](https://github.com/utsanjan#) ‎
 <br>
-&emsp;&emsp;[![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=flat&url=https%3A%2F%2Fwww.dopesatan.in%2F)](https://www.dopesatan.in/)‎ ‎
+&emsp;&emsp;[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=flat)](https://www.youtube.com/dopesatan)‎ ‎
 </div>
 <div align="left"><br>
@@ -41,7 +32,9 @@
 
 <details>
 <summary>&emsp; ‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</summary>
-
+<br>
+<a href="https://skyline.github.com/utsanjan"><img width="100%" height="auto" src="https://bit.ly/4dbRu9Z" height="175px"/></a>
+   
 ## 🌎 ‎ ‎Social Media Handles
 
 <a href="https://www.instagram.com/utsanjan/">![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)</a>
