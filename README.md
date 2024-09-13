@@ -2,7 +2,7 @@
 <div align=center><a href="#"><img height=1 width=9000 src="https://shorturl.at/A6CaJ"></a></div>
 <br>
 <table><tr>
-<td width="31%" valign="center">
+<td width="30%" valign="center">
 <a href="https://g.dev/utsanjan"><img align="left" src="https://cutt.ly/JeRdYdlo" width="500" alt="Utsanjan's Dev Card" height="auto"/></a>
 <div align="left">
 </td>
@@ -26,7 +26,7 @@
 </div>
 &emsp;<a href="https://spotify.oia.bio/utsanjan"><img src="https://cutt.ly/zeRkACU5" width="70"/></a>
 
-<a href="https://spotify.oia.link/nowplaying"><img align="left" alt="Now playing Spotify" width="350" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ropqd325w883lo9x05iiqw4ej&cover_image=true&theme=novatorem&show_offline=false&background_color=373b45&interchange=true&bar_color=53b14f&bar_color_cover=false"/></a>
+<a href="https://spotify.oia.link/nowplaying"><img align="left" alt="Now playing Spotify" width="350" src="https://cutt.ly/leRAy83e"/></a>
 <!--- <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a> -->
 </td>
 </tr></table><div align="center">
