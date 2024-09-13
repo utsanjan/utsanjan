@@ -34,7 +34,7 @@
 
 
 <details>
-<summary>&ensp;‎<h3>‎<a href="#"><img width="13" src="https://www.fg-a.com/bullets/animated-blue-gold-bullet.gif"></a> 𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</h3></summary>
+<summary>&ensp;‎<h3>‎<a href="#"><img width="12" src="https://cutt.ly/weRALVND"></a> 𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</h3></summary>
 <br>
 
 ```text
