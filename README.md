@@ -34,7 +34,7 @@
 
 
 <details>
-<summary>&ensp;‎<h2>‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&duration=1000&pause=100&color=F0F6FB&vCenter=true&width=200&lines=+%E2%9D%AF%E2%9D%AF%E2%9D%AF" width="55" height="auto"></a></h2></summary>
+<summary>&ensp;‎<h2>‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&duration=1000&pause=100&color=F0F6FB&vCenter=true&width=200&lines=+%E2%9D%AF%E2%9D%AF%E2%9D%AF" width="50" height="auto"></a></h2></summary>
 <br>
 
 ```text
