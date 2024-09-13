@@ -34,7 +34,7 @@
 
 
 <details>
-<summary>&ensp;‎<h2>‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉</h2> <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=100&color=F0F6FB&vCenter=true&width=50&height=16&lines=+%E2%9D%AF%E2%9D%AF%E2%9D%AF"></a></summary>
+<summary>&ensp;‎<h3>‎<a href="#"><img width="13" src="https://www.fg-a.com/bullets/animated-blue-gold-bullet.gif"></a> 𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</h3></summary>
 <br>
 
 ```text
