@@ -25,7 +25,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=flat)](https://www.youtube.com/dopesatan)‎ ‎
 </div>
 &emsp;<a href="https://spotify.oia.bio/utsanjan"><img src="https://cutt.ly/zeRkACU5" width="70"/></a>
-<a href="https://spotify.oia.link/nowplaying"><img align="left" alt="Now playing Spotify" width="600" src="https://cutt.ly/aeRYDkyJ"/></a>
+<a href="https://spotify.oia.link/nowplaying"><img align="left" alt="Now playing Spotify" width="600" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ropqd325w883lo9x05iiqw4ej&cover_image=true&theme=natemoo-re&show_offline=false&background_color=373b45&interchange=true&bar_color=53b14f&bar_color_cover=false"/></a>
 <!--- <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a> -->
 </td>
 </tr></table><div align="center">
