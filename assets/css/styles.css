@@ -6379,7 +6379,7 @@ img {
     position: absolute;
     right: 0;
     bottom: 0;
-    width: 291px;
+    width: 250px;
     z-index: var(--z-normal);
 }
 
@@ -6480,7 +6480,7 @@ img {
         margin-bottom: 0;
     }
     .home__img {
-        width: 553px;
+        width: 500px;
         right: 5%;
     }
 }
