@@ -26,7 +26,7 @@
 </div>
 &emsp;<a href="https://spotify.oia.bio/utsanjan"><img src="https://cutt.ly/zeRkACU5" width="70"/></a>
 
-<a href="https://spotify.oia.link/nowplaying"><img align="left" alt="Now playing Spotify" width="500" src="https://cutt.ly/ke6riXLu"/></a>
+<a href="https://spotify.oia.link/nowplaying"><img align="left" alt="Now playing Spotify" width="400" src="https://cutt.ly/ke6riXLu"/></a>
 <!--- <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a> -->
 </td>
 </tr></table><div align="center">
