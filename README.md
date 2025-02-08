@@ -9,14 +9,14 @@
 <td width="50%" valign="top">
 
 ### &ensp;<a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a>‎ ‎‎ ‎HELLO WORLD, I'M UTSANJAN‎ ‎ 🧑🏻‍💻✨
-&emsp; ***HERE ARE SOME POINTS ABOUT ME & MY WORK***<br>
-&emsp;•‎ ‎Pursuing MBA in Biz Analytics along with my work<br>
-&emsp;•‎ ‎BTech 2022 grad in Computer Sc. & Engineering<br>
-&emsp;•‎ ‎Enjoy keeping up my techblog page [DopeSatan](https://www.dopesatan.in)<br>
-&emsp;•‎ ‎Love making tech tutorial videos on [YouTube](https://www.youtube.com/DopeSatan)<br>
-&emsp;•‎ ‎Self-teaching myself UI and UX designing<br>
-&emsp;•‎ ‎Build Android Apps primarily with Java<br>
-&emsp;•‎ ‎Also passionate about cybersecurity<br>
+&emsp; ***KEY HIGHLIGHTS FROM MY JOURNEY AND THE WORK I DO***<br>
+&emsp;•‎ ‎Pursuing an MBA in Business Analytics while working full-time<br>
+&emsp;•‎ ‎Graduated with a B.Tech in Computer Science & Engineering<br>
+&emsp;•‎ ‎Love creating tech tutorial videos on [**YouTube**](https://www.youtube.com/@DynaSage)<br>
+&emsp;•‎ ‎Enjoy maintaining my tech blog, [**DynaSage**](https://blog.dynasage.com/)<br>
+&emsp;•‎ ‎Develop Android apps primarily using Java<br>
+&emsp;•‎ ‎Passionate about cybersecurity<br>
+&emsp;•‎ ‎Self-learning UI and UX design<br>
 
 &emsp;[![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=flat&url=https%3A%2F%2Fwww.dopesatan.in%2F)](https://www.dopesatan.in/)‎ ‎
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=flat)](https://github.com/utsanjan#) ‎
@@ -26,7 +26,7 @@
 </div>
 &emsp;<a href="https://spotify.oia.bio/utsanjan"><img src="https://cutt.ly/zeRkACU5" width="70"/></a>
 
-<a href="https://spotify.oia.link/nowplaying"><img align="left" alt="Now playing Spotify" width="320" src="https://cutt.ly/leRAy83e"/></a>
+<a href="https://spotify.oia.link/nowplaying"><img align="left" alt="Now playing Spotify" width="500" src="https://cutt.ly/ke6riXLu"/></a>
 <!--- <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a> -->
 </td>
 </tr></table><div align="center">
