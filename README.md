@@ -18,7 +18,7 @@
 &emsp;•‎ ‎Passionate about cybersecurity<br>
 &emsp;•‎ ‎Self-learning UI and UX design<br>
 
-&emsp;[![Blog Page](https://img.shields.io/website?color=147FBC&label=DopeSatan&style=flat&url=https%3A%2F%2Fwww.dopesatan.in%2F)](https://www.dopesatan.in/)‎ ‎
+&emsp;[![Blog Page](https://img.shields.io/website?color=147FBC&label=DynaSage&style=flat&url=https%3A%2F%2Fwww.dopesatan.in%2F)](https://blog.dynasage.com/)‎ ‎
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=flat)](https://github.com/utsanjan#) ‎
 <br>
 &emsp;[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
