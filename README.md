@@ -1,6 +1,3 @@
-<a href="https://skyline.github.com/utsanjan"><img width="100%" height="auto" src="https://bit.ly/4dbRu9Z" height="175px"/></a>
-<div align=center><a href="#"><img height=1 width=9000 src="https://shorturl.at/A6CaJ"></a></div>
-<br>
 <table><tr>
 <td width="30%" valign="center">
 <a href="https://g.dev/utsanjan"><img align="left" src="https://cutt.ly/JeRdYdlo" width="420" alt="Utsanjan's Dev Card" height="auto"/></a>
@@ -9,6 +6,7 @@
 <td width="50%" valign="top">
 
 ### &ensp;<a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a>‎ ‎‎ ‎HELLO WORLD, I'M UTSANJAN‎ ‎ 🧑🏻‍💻✨
+
 &emsp; ***KEY HIGHLIGHTS FROM MY JOURNEY AND THE WORK I DO***<br>
 &emsp;•‎ ‎Pursuing an MBA in Business Analytics while working full-time<br>
 &emsp;•‎ ‎Graduated with a B.Tech in Computer Science & Engineering<br>
@@ -30,13 +28,13 @@
 <!--- <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a> -->
 </td>
 </tr></table><div align="center">
-<div align=center><a href="#"><img height=1 width=9000 src="https://shorturl.at/A6CaJ"></a></div><br>
 
 
 <details>
 <summary>&ensp;‎<h3>‎<a href="#"><img width="11" src="https://cutt.ly/QeRSjDcE"></a>&ensp;‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</h3></summary>
 <br>
-
+<a href="https://skyline.github.com/utsanjan"><img width="100%" height="auto" src="https://bit.ly/4dbRu9Z" height="175px"/></a>
+  
 ```text
 🌞 Morning                0443 Commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 🌆 Midday                 2880 Commits        █████████░░░░░░░░░░░░░░░░   36.81 % 
@@ -71,5 +69,6 @@
 <a href="https://metrics.lecoq.io/insights/utsanjan"><img width="450" height="auto" src="https://utsanjan.github.io/utsanjan/images/userstats.svg" height="175px"/></a>
   
 ###### ‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼️
+<div align=center><a href="#"><img height=1 width=9000 src="https://shorturl.at/A6CaJ"></a></div>
 </details>
 </div>
