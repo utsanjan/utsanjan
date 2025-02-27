@@ -69,6 +69,6 @@
 <a href="https://metrics.lecoq.io/insights/utsanjan"><img width="450" height="auto" src="https://utsanjan.github.io/utsanjan/images/userstats.svg" height="175px"/></a>
   
 ###### ‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼️
-<div align=center><a href="#"><img height=1 width=9000 src="https://shorturl.at/A6CaJ"></a></div>
+<div align=center><a href="#"><img height=1 width=80% src="https://shorturl.at/A6CaJ"></a></div>
 </details>
 </div>
