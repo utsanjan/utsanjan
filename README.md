@@ -7,8 +7,8 @@
 
 ### &ensp;<a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a>‎ ‎‎ ‎HELLO WORLD, I'M UTSANJAN‎ ‎ 🧑🏻‍💻✨
 
-&emsp; ***KEY HIGHLIGHTS FROM MY JOURNEY AND THE WORK I DO***<br>
-&emsp;•‎ ‎Juggling full-time work and an MBA in Business Analytics<br>
+&emsp; ***KEY HIGHLIGHTS FROM MY PROFESSIONAL JOURNEY***<br>
+&emsp;•‎ ‎Juggling full-time work & an MBA in Business Analytics<br>
 &emsp;•‎ ‎Graduated with B.Tech in Computer Science & Engg.<br>
 &emsp;•‎ ‎Love creating tech tutorial videos on [**YouTube**](https://www.youtube.com/@DynaSage)<br>
 &emsp;•‎ ‎Enjoy maintaining my tech blog, [**DynaSage**](https://blog.dynasage.com/)<br>
