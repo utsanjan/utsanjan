@@ -6412,7 +6412,7 @@ img {
   width:100%;
   height:100%;
   position:absolute;
-  backdrop-filter:blur(30px);-webkit-backdrop-filter:blur(30px);
+  backdrop-filter:blur(15px);-webkit-backdrop-filter:blur(15px);
   background:rgba(10,10,10,0.1);
   background-repeat:no-repeat; 
   z-index:9999999;
