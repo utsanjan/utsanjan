@@ -16,7 +16,7 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: user-statistician
-      uses: cicirello/user-statistician@v1.20.2
+      uses: cicirello/user-statistician@v1.24.1
       with:
         colors: dark
         max-languages: 100
