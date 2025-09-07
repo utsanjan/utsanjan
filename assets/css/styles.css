@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
 
 * {
-	cursor: url(https://gitlab.com/utsanjan/DopeSatan/-/raw/master/Optimised/GoogleCursor.png) 30 30,auto;
+	cursor: url(https://gitlab.com/utsanjan/DopeSatan/-/raw/master/Optimised/GoogleCursor.png) 30 30, auto;
 }
 
 html {
@@ -8797,4 +8797,36 @@ img {
 .third {
 	background-color: var(--first-color);
 	left: 66.6%;
+}
+
+/* Default styles */
+.class-10 {
+	margin-top: -200px !important;
+
+}
+
+.class-11 {
+	margin-top: -300px !important;
+
+}
+
+.class-12 {
+	margin-top: -200px !important;
+}
+
+/* Mobile styles - Small devices (phones, 480px and down) */
+@media screen and (max-width: 768px) {
+	.class-10 {
+		margin-top: -100px !important;
+
+	}
+
+	.class-11 {
+		margin-top: -100px !important;
+
+	}
+
+	.class-12 {
+		margin-top: -70px !important;
+	}
 }
