@@ -11,7 +11,7 @@
 &emsp;•‎ ‎Juggling full-time work & an MBA in Business Analytics<br>
 &emsp;•‎ ‎Graduated with B.Tech in Computer Science & Engg.<br>
 &emsp;•‎ ‎Growing a tech-savvy community via [**YouTube**](https://www.youtube.com/@DynaSage)<br>
-&emsp;•‎ Building [**DynaSage**](https://www.dynasage.com/). Visit our [**blog**](https://blog.dynasage.com/) for more!<br>
+&emsp;•‎ Building [**DynaSage**](https://www.dynasage.com/), visit our [**blog**](https://blog.dynasage.com/) for more<br>
 &emsp;•‎ ‎Deeply passionate about data science<br>
 &emsp;•‎ ‎Teaching myself UI and UX design<be>
 
