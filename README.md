@@ -12,7 +12,7 @@
 &emsp;•‎ ‎Graduated with B.Tech in Computer Science & Engg.<br>
 &emsp;•‎ ‎Growing a tech-savvy community via [**YouTube**](https://www.youtube.com/@DynaSage)<br>
 &emsp;•‎ Building [**DynaSage**](https://www.dynasage.com/). Visit our [**blog**](https://blog.dynasage.com/) for more!<br>
-&emsp;•‎ ‎Deeply passionate about cybersecurity<br>
+&emsp;•‎ ‎Deeply passionate about data science<br>
 &emsp;•‎ ‎Teaching myself UI and UX design<be>
 
 &emsp;[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
@@ -20,7 +20,7 @@
 <br>
 &emsp;[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=flat)](https://www.youtube.com/dopesatan)‎ ‎
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=flat)](https://github.com/utsanjan#) ‎
-</div>
+</div><br>
 &emsp;<a href="https://spti.fi/utsanjan"><img src="https://cutt.ly/zeRkACU5" width="70"/></a>
 
 <a href="https://spotify.openinapp.link/nowplaying"><img align="left" alt="Now playing Spotify" width="420" src="https://cutt.ly/ke6riXLu"/></a>
