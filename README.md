@@ -10,9 +10,8 @@
 &emsp; ***KEY HIGHLIGHTS FROM MY PROFESSIONAL JOURNEY***<br>
 &emsp;•‎ ‎Juggling full-time work & an MBA in Business Analytics<br>
 &emsp;•‎ ‎Graduated with B.Tech in Computer Science & Engg.<br>
-&emsp;•‎ ‎Love creating tech tutorial videos on [**YouTube**](https://www.youtube.com/@DynaSage)<br>
-&emsp;•‎ ‎Enjoy maintaining my tech blog, [**DynaSage**](https://blog.dynasage.com/)<br>
-&emsp;•‎ ‎Develop Android apps mainly using Java<br>
+&emsp;•‎ ‎Growing a tech-savvy community via [**YouTube**](https://www.youtube.com/@DynaSage)<br>
+&emsp;•‎ Building [**DynaSage**](https://www.dynasage.com/). Visit our [**blog**](https://blog.dynasage.com/) for more!<br>
 &emsp;•‎ ‎Deeply passionate about cybersecurity<br>
 &emsp;•‎ ‎Teaching myself UI and UX design<be>
 
