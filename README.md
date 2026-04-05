@@ -51,7 +51,7 @@ When I'm not working with data or learning design, you'll probably find me creat
 <a href="https://spotify.openinapp.link/nowplaying"><img align="left" alt="Now playing Spotify" width="500" src="https://cutt.ly/ke6riXLu"/></a>
 <!--- <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a> -->
 </td>
-</tr></table><br>
+</tr></table>
 
 ## 🧑🏻‍💻 ‎ ‎Technologies Learnt
 
