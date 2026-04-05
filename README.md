@@ -32,7 +32,7 @@ When I'm not working with data or learning design, you'll probably find me creat
 <a href="https://g.dev/utsanjan"><img align="left" src="https://cutt.ly/JeRdYdlo" width="420" alt="Utsanjan's Dev Card" height="auto"/></a>
 <div align="left">
 </td>
-<td width="60%" valign="top">
+<td width="70%" valign="top">
   
 ## &emsp;🌎 ‎ ‎Social Media Handles
   
@@ -47,8 +47,8 @@ When I'm not working with data or learning design, you'll probably find me creat
 
 ---
 
-&emsp;<a href="https://spti.fi/utsanjan"><img src="https://cutt.ly/zeRkACU5" width="80"/></a><br>
-<a href="https://spotify.openinapp.link/nowplaying"><img align="left" alt="Now playing Spotify" width="500" src="https://cutt.ly/ke6riXLu"/></a>
+&emsp;<a href="https://spti.fi/utsanjan"><img src="https://cutt.ly/zeRkACU5" width="85"/></a><br>
+<a href="https://spotify.openinapp.link/nowplaying"><img align="left" alt="Now playing Spotify" width="550" src="https://cutt.ly/ke6riXLu"/></a>
 <!--- <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a> -->
 </td>
 </tr></table><br>
