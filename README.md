@@ -53,31 +53,38 @@ When I'm not working with data or learning design, you'll probably find me creat
 </td>
 </tr></table>
 
-## 🧑🏻‍💻 ‎ ‎Technologies Learnt
-
-<a href="#">![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
+<table><tr>
+<td width="30%" valign="center">
+<a href="https://metrics.lecoq.io/insights/utsanjan"><img width="450" height="auto" src="https://utsanjan.github.io/utsanjan/images/userstats.svg" height="175px"/></a>
+<div align="left">
+</td>
+<td width="70%" valign="top">
+  
+## &emsp;🧑🏻‍💻 ‎ ‎Technologies Learnt
+  
+&emsp;<a href="#">![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</a><br>
-<a href="#">![](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)</a>
+&emsp;<a href="#">![](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="#">![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)</a>
 
-<a href="https://metrics.lecoq.io/insights/utsanjan"><img width="450" height="auto" src="https://utsanjan.github.io/utsanjan/images/userstats.svg" height="175px"/></a>
-  
-###### ‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼️
-<div align=center><a href="#"><img height=1 width=100% src="https://cutt.ly/SrgvxCn8"></a></div>
+&emsp;<a href="https://www.thegitcity.com/dev/utsanjan"><img width="100%" height="auto" src="https://bit.ly/4dbRu9Z" height="175px"/></a>
+</td>
+</tr></table>
 
-<a href="https://www.thegitcity.com/dev/utsanjan"><img width="100%" height="auto" src="https://bit.ly/4dbRu9Z" height="175px"/></a>
-  
 ```text
 🌞 Morning                0443 Commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 🌆 Midday                 2880 Commits        █████████░░░░░░░░░░░░░░░░   36.81 % 
 🌃 Evening                3409 Commits        ███████████░░░░░░░░░░░░░░   43.57 % 
 🌙 Night                  1092 Commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
 ```
+
+###### ‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼️
+<div align=center><a href="#"><img height=1 width=70% src="https://cutt.ly/SrgvxCn8"></a></div>
 </details>
 </div>
