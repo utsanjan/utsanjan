@@ -1,9 +1,9 @@
 ### Hello world! <a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a>
 
-[![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=flat)](https://github.com/utsanjan#) ‎
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=flat)](https://www.youtube.com/dopesatan)‎ ‎
-[![Blog Page](https://img.shields.io/website?color=147FBC&label=DynaSage&style=flat&url=https%3A%2F%2Fwww.dynasage.com%2F)](https://www.dynasage.com/)‎ ‎‎
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ 
+[![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=for-the-badge)](https://github.com/utsanjan#) ‎
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=for-the-badge)](https://www.youtube.com/dopesatan)‎ ‎
+[![Blog Page](https://img.shields.io/website?color=147FBC&label=DynaSage&style=for-the-badge&url=https%3A%2F%2Fwww.dynasage.com%2F)](https://www.dynasage.com/)‎ ‎‎
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ 
 
 I'm **Utsanjan**, a Senior Data Analyst based out of India. I enjoy transforming raw data into meaningful insights to help people or machines make better decisions.
 
