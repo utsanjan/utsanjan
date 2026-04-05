@@ -5,7 +5,7 @@
 [![Blog Page](https://img.shields.io/website?color=147FBC&label=DynaSage&style=flat&url=https%3A%2F%2Fwww.dynasage.com%2F)](https://www.dynasage.com/)‎ ‎‎
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ 
 
-I'm **Utsanjan**, a Senior Data Analyst based in India. I enjoy transforming raw data into meaningful insights to help people or machines make better decisions.
+I'm **Utsanjan**, a Senior Data Analyst based out of India. I enjoy transforming raw data into meaningful insights to help people or machines make better decisions.
 
 **These days I'm focused on:**
 - Balancing my full-time job and pursuing an **MBA in Business Analytics**
