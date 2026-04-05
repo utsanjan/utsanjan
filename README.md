@@ -34,13 +34,12 @@ When I'm not working with data or learning design, you'll probably find me creat
 </td>
 <td width="70%" valign="top">
   
-## &emsp;🌎 ‎ ‎Social Media Handles
+## 🌎 ‎ ‎Social Media Handles
   
-&emsp;<a href="https://www.instagram.com/utsanjan/">![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.instagram.com/utsanjan/">![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://play.google.com/store/apps/dev?id=7093715858380847229">![](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)</a>
-<a href="https://www.facebook.com/utsanjan/">![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
-<br>
-&emsp;<a href="https://www.linkedin.com/in/utsanjan/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.facebook.com/utsanjan/">![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a><br>
+<a href="https://www.linkedin.com/in/utsanjan/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.youtube.com/DopeSatan/">![](https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)</a>
 <a href="https://discord.com/invite/uavTPkr/">![](https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)</a> 
 <a href="https://utsanjan.bio.link/"><img width="auto" height="28" src="https://bit.ly/3bDDagz"/></a>
@@ -54,26 +53,26 @@ When I'm not working with data or learning design, you'll probably find me creat
 </tr></table>
 
 <table><tr>
-<td width="30%" valign="center">
-<a href="https://metrics.lecoq.io/insights/utsanjan"><img width="450" height="auto" src="https://utsanjan.github.io/utsanjan/images/userstats.svg" height="175px"/></a>
-<div align="left">
-</td>
 <td width="70%" valign="top">
   
-## &emsp;🧑🏻‍💻 ‎ ‎Technologies Learnt
+## 🧑🏻‍💻 ‎ ‎Technologies Learnt
   
-&emsp;<a href="#">![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
+<a href="#">![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</a><br>
-&emsp;<a href="#">![](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)</a>
+<a href="#">![](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="#">![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)</a>
 
-&emsp;<a href="https://www.thegitcity.com/dev/utsanjan"><img width="100%" height="auto" src="https://bit.ly/4dbRu9Z" height="175px"/></a>
+<a href="https://www.thegitcity.com/dev/utsanjan"><img width="100%" height="auto" src="https://bit.ly/4dbRu9Z" height="175px"/></a>
+</td>
+<td width="30%" valign="center">
+<a href="https://metrics.lecoq.io/insights/utsanjan"><img width="450" height="auto" src="https://utsanjan.github.io/utsanjan/images/userstats.svg" height="175px"/></a>
+<div align="left">
 </td>
 </tr></table>
 
