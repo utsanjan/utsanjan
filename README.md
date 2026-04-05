@@ -53,7 +53,7 @@ When I'm not working with data or learning design, you'll probably find me creat
 </tr></table>
 
 <table><tr>
-<td width="70%" valign="top">
+<td width="65%" valign="top">
   
 ## 🧑🏻‍💻 ‎ ‎Technologies Learnt
   
@@ -68,9 +68,11 @@ When I'm not working with data or learning design, you'll probably find me creat
 <a href="#">![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="#">![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)</a>
 
+---
+
 <a href="https://www.thegitcity.com/dev/utsanjan"><img width="100%" height="auto" src="https://bit.ly/4dbRu9Z" height="175px"/></a>
 </td>
-<td width="30%" valign="center">
+<td width="35%" valign="center">
 <a href="https://metrics.lecoq.io/insights/utsanjan"><img width="450" height="auto" src="https://utsanjan.github.io/utsanjan/images/userstats.svg" height="175px"/></a>
 <div align="left">
 </td>
