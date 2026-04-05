@@ -10,7 +10,7 @@ I'm **Utsanjan**, a Senior Data Analyst based in India. I enjoy transforming raw
 **Right now I'm focused on:**
 - Balancing my full-time job and pursuing an **MBA in Business Analytics**
 - Growing my tech community through my [**YouTube**](https://www.youtube.com/@DynaSage) **channel**
-- Building [**DynaSage**](https://www.dynasage.com/), visit our [**Blog**](https://blog.dynasage.com/) for tech articles
+- Building [**DynaSage**](https://www.dynasage.com/) - visit our [**Blog**](https://blog.dynasage.com/) for tech articles
 
 ---
 
