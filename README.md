@@ -32,7 +32,7 @@ When I'm not working with data or learning design, you'll probably find me creat
 <a href="https://g.dev/utsanjan"><img align="left" src="https://cutt.ly/JeRdYdlo" width="420" alt="Utsanjan's Dev Card" height="auto"/></a>
 <div align="left">
 </td>
-<td width="70%" valign="top">
+<td width="60%" valign="top">
   
 ## &emsp;🌎 ‎ ‎Social Media Handles
   
@@ -45,7 +45,7 @@ When I'm not working with data or learning design, you'll probably find me creat
 <a href="https://discord.com/invite/uavTPkr/">![](https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)</a> 
 <a href="https://utsanjan.bio.link/"><img width="auto" height="28" src="https://bit.ly/3bDDagz"/></a>
 
-&emsp;<br>
+---
 
 &emsp;<a href="https://spti.fi/utsanjan"><img src="https://cutt.ly/zeRkACU5" width="80"/></a><br>
 <a href="https://spotify.openinapp.link/nowplaying"><img align="left" alt="Now playing Spotify" width="500" src="https://cutt.ly/ke6riXLu"/></a>
