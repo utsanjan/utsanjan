@@ -1,45 +1,36 @@
-<table><tr>
-<td width="30%" valign="center">
-<a href="https://g.dev/utsanjan"><img align="left" src="https://cutt.ly/JeRdYdlo" width="420" alt="Utsanjan's Dev Card" height="auto"/></a>
-<div align="left">
-</td>
-<td width="50%" valign="top">
+### Hello world! <a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a>
 
-### &ensp;<a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a>‎ ‎‎ ‎HELLO WORLD, I'M UTSANJAN‎ ‎ 🧑🏻‍💻✨
-
-&emsp; ***KEY HIGHLIGHTS FROM MY PROFESSIONAL JOURNEY***<br>
-&emsp;•‎ ‎Juggling full-time work & an MBA in Business Analytics<br>
-&emsp;•‎ ‎Graduated with B.Tech in Computer Science & Engg.<br>
-&emsp;•‎ ‎Growing a tech-savvy community via [**YouTube**](https://www.youtube.com/@DynaSage)<br>
-&emsp;•‎ Building [**DynaSage**](https://www.dynasage.com/), visit our [**blog**](https://blog.dynasage.com/) for more<br>
-&emsp;•‎ ‎Deeply passionate about data science<br>
-&emsp;•‎ ‎Teaching myself UI and UX design<be>
-
-&emsp;[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
-[![Blog Page](https://img.shields.io/website?color=147FBC&label=DynaSage&style=flat&url=https%3A%2F%2Fwww.dynasage.com%2F)](https://www.dynasage.com/)‎ ‎
-<br>
-&emsp;[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=flat)](https://www.youtube.com/dopesatan)‎ ‎
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=flat)](https://github.com/utsanjan#) ‎
-</div><br>
-&emsp;<a href="https://spti.fi/utsanjan"><img src="https://cutt.ly/zeRkACU5" width="70"/></a>
+[![Blog Page](https://img.shields.io/website?color=147FBC&label=DynaSage&style=flat&url=https%3A%2F%2Fwww.dynasage.com%2F)](https://www.dynasage.com/)‎ ‎‎
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=flat)](https://www.youtube.com/dopesatan)‎ ‎
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ 
 
-<a href="https://spotify.openinapp.link/nowplaying"><img align="left" alt="Now playing Spotify" width="420" src="https://cutt.ly/ke6riXLu"/></a>
-<!--- <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a> -->
-</td>
-</tr></table><div align="center">
+I'm **Utsanjan**, a Senior Data Analyst based in India. I enjoy transforming raw data into meaningful stories to help people or machines make better decisions.
+
+**Right now I'm focused on:**
+- Balancing my full-time job and pursuing an **MBA in Business Analytics**
+- Growing my tech community through my [**YouTube**](https://www.youtube.com/@DynaSage) **channel**
+- Building [**DynaSage**](https://www.dynasage.com/), visit our [**Blog**](https://blog.dynasage.com/) for tech articles
+
+---
+
+**A bit more about me:**
+- Graduated with a **B.Tech in Computer Science and Engineering**
+- Have a deep passion for **data science** and everything analytics-related
+- Learning **UI/UX design** to create better user-friendly tools and experiences
+
+When I'm not working with data or learning design, you'll probably find me creating content or experimenting with new ideas. Feel free to explore my repositories, check out my [blog](https://blog.dynasage.com/), or [connect](#--social-media-handles) with me!
 
 
+**Fun fact:** Statistics is the only science wherein two experts can analyze the same data and reach opposite conclusions.
+
+---
+
+<div align="center">
 <details>
 <summary>&ensp;‎<h3>‎<a href="#"><img width="11" src="https://cutt.ly/QeRSjDcE"></a>&ensp;‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</h3></summary>
 <br>
-<a href="https://www.thegitcity.com/dev/utsanjan"><img width="100%" height="auto" src="https://bit.ly/4dbRu9Z" height="175px"/></a>
-  
-```text
-🌞 Morning                0443 Commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-🌆 Midday                 2880 Commits        █████████░░░░░░░░░░░░░░░░   36.81 % 
-🌃 Evening                3409 Commits        ███████████░░░░░░░░░░░░░░   43.57 % 
-🌙 Night                  1092 Commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-```
+<a href="https://g.dev/utsanjan"><img src="https://api.daily.dev/devcards/v2/qyMwj5ItHBkDWTFed5SgM.png?type=wide&r=2eq" width=auto alt="Utsanjan Maity's Dev Card"/></a>
 
 ## 🌎 ‎ ‎Social Media Handles
 
@@ -52,7 +43,11 @@
 <a href="https://discord.com/invite/uavTPkr/">![](https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)</a> 
 <a href="https://utsanjan.bio.link/"><img width="auto" height="28" src="https://bit.ly/3bDDagz"/></a>
 
-## 🧠 ‎ ‎Technologies Learnt
+&emsp;<a href="https://spti.fi/utsanjan"><img src="https://cutt.ly/zeRkACU5" width="70"/></a><br>
+<a href="https://spotify.openinapp.link/nowplaying"><img align="center" alt="Now playing Spotify" width="420" src="https://cutt.ly/ke6riXLu"/></a>
+<!--- <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a> -->
+
+## 🧑🏻‍💻 ‎ ‎Technologies Learnt
 
 <a href="#">![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
@@ -68,6 +63,15 @@
 <a href="https://metrics.lecoq.io/insights/utsanjan"><img width="450" height="auto" src="https://utsanjan.github.io/utsanjan/images/userstats.svg" height="175px"/></a>
   
 ###### ‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼️
-<div align=center><a href="#"><img height=1 width=70% src="https://cutt.ly/SrgvxCn8"></a></div>
+<div align=center><a href="#"><img height=1 width=100% src="https://cutt.ly/SrgvxCn8"></a></div>
+
+<a href="https://www.thegitcity.com/dev/utsanjan"><img width="100%" height="auto" src="https://bit.ly/4dbRu9Z" height="175px"/></a>
+  
+```text
+🌞 Morning                0443 Commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+🌆 Midday                 2880 Commits        █████████░░░░░░░░░░░░░░░░   36.81 % 
+🌃 Evening                3409 Commits        ███████████░░░░░░░░░░░░░░   43.57 % 
+🌙 Night                  1092 Commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+```
 </details>
 </div>
