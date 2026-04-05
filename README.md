@@ -26,26 +26,32 @@ When I'm not working with data or learning design, you'll probably find me creat
 
 ---
 
-<div align="center">
 <details>
 <summary>&ensp;‎<h3>‎<a href="#"><img width="11" src="https://cutt.ly/QeRSjDcE"></a>&ensp;‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</h3></summary>
-<br>
-<a href="https://g.dev/utsanjan"><img src="https://api.daily.dev/devcards/v2/qyMwj5ItHBkDWTFed5SgM.png?type=wide&r=2eq" width=auto alt="Utsanjan Maity's Dev Card"/></a>
-
-## 🌎 ‎ ‎Social Media Handles
-
-<a href="https://www.instagram.com/utsanjan/">![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<br><div align="center">
+<table><tr>
+<td width="30%" valign="center">
+<a href="https://g.dev/utsanjan"><img align="left" src="https://cutt.ly/JeRdYdlo" width="420" alt="Utsanjan's Dev Card" height="auto"/></a>
+<div align="left">
+</td>
+<td width="50%" valign="top">
+  
+## &emsp;🌎 ‎ ‎Social Media Handles
+  
+&emsp;<a href="https://www.instagram.com/utsanjan/">![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://play.google.com/store/apps/dev?id=7093715858380847229">![](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)</a>
 <a href="https://www.facebook.com/utsanjan/">![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <br>
-<a href="https://www.linkedin.com/in/utsanjan/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+&emsp;<a href="https://www.linkedin.com/in/utsanjan/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.youtube.com/DopeSatan/">![](https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)</a>
 <a href="https://discord.com/invite/uavTPkr/">![](https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)</a> 
 <a href="https://utsanjan.bio.link/"><img width="auto" height="28" src="https://bit.ly/3bDDagz"/></a>
 
-&emsp;<a href="https://spti.fi/utsanjan"><img src="https://cutt.ly/zeRkACU5" width="70"/></a><br>
-<a href="https://spotify.openinapp.link/nowplaying"><img align="center" alt="Now playing Spotify" width="420" src="https://cutt.ly/ke6riXLu"/></a>
+&emsp;<a href="https://spti.fi/utsanjan"><img src="https://cutt.ly/zeRkACU5" width="80"/></a><br>
+<a href="https://spotify.openinapp.link/nowplaying"><img align="left" alt="Now playing Spotify" width="1000" src="https://cutt.ly/ke6riXLu"/></a>
 <!--- <a href="https://itunes.oia.bio/utsanjan"><img align="right" alt="Now playing on Apple Music" height="290px" width=auto src="https://cutt.ly/SejXJRo3"/></a> -->
+</td>
+</tr></table>
 
 ## 🧑🏻‍💻 ‎ ‎Technologies Learnt
 
