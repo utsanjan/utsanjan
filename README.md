@@ -1,7 +1,6 @@
 ### Hello world! <a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a>
 
-I'm **Utsanjan**, a Senior Data Analyst based out of India. I turn messy data into answers people actually trust, and occasionally into a chart that ends a meeting early.
-**These days I'm focused on:**
+I'm **Utsanjan**, a Senior Data Analyst based out of India. I turn messy data into answers people actually trust, and occasionally into a chart that ends a meeting early. These days I'm focused on:
 - Balancing my full-time job and pursuing an **MBA in Business Analytics**
 - Growing my tech community through my [**YouTube**](https://www.youtube.com/@DynaSage) **channel**
 - Building [**DynaSage**](https://www.dynasage.com/) - visit our [**Blog**](https://blog.dynasage.com/) for tech articles
