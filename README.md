@@ -9,7 +9,7 @@ I'm **Utsanjan**, a Senior Data Analyst based out of India. I enjoy transforming
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan) ‎
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=for-the-badge)](https://github.com/utsanjan#) ‎
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=for-the-badge)](https://www.youtube.com/dopesatan) ‎
+[![YouTube Channel Subscribers](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=282828)](https://www.youtube.com/dopesatan?sub_confirmation=1) ‎
 [![Blog Page](https://img.shields.io/website?color=147FBC&label=DynaSage&style=for-the-badge&url=https%3A%2F%2Fwww.dynasage.com%2F)](https://www.dynasage.com/) ‎
 
 ---
